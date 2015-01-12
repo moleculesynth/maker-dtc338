@@ -1,4 +1,4 @@
-# maker-dtc338
+# makers-dtc338
 DTC 338: Special Topics in Digital Technology and Culture: “Maker Culture: Design at the Intersection of Material and Digital Practice” 
 
 Spring, 2015
