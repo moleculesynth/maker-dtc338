@@ -33,7 +33,7 @@ To satisfy requirements of this course, students are expected to complete the fo
 	* Workshop Prototypes (20%) 
 	* Final Project (40%), Instructable or How-To Demonstration including Iterations and Prototypes, Product Narrative, Bill of Materials (BOM) Assessment, Design for Manufacture (DFM), Proof of Concept Model 
 
-### Additionally, satisfying the requirements of this class means: 
+* Additionally, satisfying the requirements of this class means: 
 	* All reading/video/audio assignments completed on time and as assigned. 
 	* You are required to participate in the daily activities of our class — because we are learning in “workshop” mode, your presence in class, on time, every meeting is crucial. 
 	* Independent research projects should be completed with originality and an effort made to share learning with the rest of the class. 
