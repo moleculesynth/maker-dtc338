@@ -7,7 +7,9 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 - VMMC 211A, Fridays 11:30-12:30 and by appointment 
 
 [Class website](https://github.com/moleculesynth/maker-dtc338)
+
 [Class Wiki](https://github.com/moleculesynth/maker-dtc338/wiki)
+
 [Class Google Group](https://groups.google.com/d/forum/maker_culture_dtc338)
 
 ## Required Materials 
@@ -37,7 +39,7 @@ To satisfy requirements of this course, students are expected to complete the fo
 	* Independent research projects should be completed with originality and an effort made to share learning with the rest of the class. 
 	* Students are expected to push themselves utilizing what is learned and what is already known in ways that are new, useful, and interesting to themselves, the class, and to the world. 
 
-##Tentative Schedule
+#Tentative Schedule
 
 ## Week 1: January 16 
 ###  Course Intro and Expectations 
