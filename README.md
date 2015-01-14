@@ -20,10 +20,10 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Assignments 
 To satisfy requirements of this course, students are expected to complete the following: 
 * RESPONSE PAPERS: Wiki/classlist short written reflections or responses on topics of interest
-* WORKSHOP CHALLENGES: In-class design and building challenges
+* WEEKLY WORKSHOP CHALLENGES: In-class design and building challenges
 * TWO PRESENTATIONS: Medium/Slideshare/Prezi/Tumblr/Wordpress post and in-class quick presentation on select projects or concepts of “Maker Culture”
 * TWO PROTOTYPES: Designing, documenting and building your own Maker Projects (Robot/Microcontroller, Wearable/IoT, 3D Printed/Digitally Fabricated)
-* ONE FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
+* FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
 
 ## Requirements and Assessment 
 * Grades will be based on the following:
