@@ -15,22 +15,22 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Required Materials 
 * Regular and reliable access to the internet, email, and a computer for completing assignments.
 * Flash drive (at least 1GB).
-* Notebook or journal for in-class sketches, drawing, and response; also, pen or pencil.    
+* Notebook or journal for in-class sketches, drawing, and response; also, pen or pencil. 
 
 ## Assignments 
-To satisfy requirements of this course, students are expected to complete the following:  
-* TWO PRESENTATIONS:  Medium/Slideshare/Prezi/Tumblr/Wordpress post and in-class quick presentation on select projects or concepts of “Maker Culture” 
-* RESPONSE PAPERS: Wiki/classlist short written reflections or responses on topics of weekly interest 
-* WORKSHOP CHALLENGES:  Workshop challenges (in-class design and building challenges) 
-* TWO PROTOTYPES: Designing, documenting and building your own Maker Projects (Robot/Microcontroller, Wearable/IoT, 3D Printed/Digitally Fabricated) 
-* ONE FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project 
+To satisfy requirements of this course, students are expected to complete the following: 
+* RESPONSE PAPERS: Wiki/classlist short written reflections or responses on topics of interest
+* WORKSHOP CHALLENGES: In-class design and building challenges
+* TWO PRESENTATIONS: Medium/Slideshare/Prezi/Tumblr/Wordpress post and in-class quick presentation on select projects or concepts of “Maker Culture”
+* TWO PROTOTYPES: Designing, documenting and building your own Maker Projects (Robot/Microcontroller, Wearable/IoT, 3D Printed/Digitally Fabricated)
+* ONE FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
 
 ## Requirements and Assessment 
 * Grades will be based on the following:
-	* Roundtable Class Discussions and Class Participation (20%) 
-	* Written Reflections and Response Papers (10%) 
-	* Class Presentations (10%) , including Medium/Slideshare/Prezi/Tumblr/Wordpress post 
-	* Workshop Prototypes (20%) 
+	* Roundtable Class Discussions and Class Participation (20%)
+	* Response Papers (10%)
+	* Presentations (10%), including Medium/Slideshare/Prezi/Tumblr/Wordpress post 
+	* Prototypes (20%)
 	* Final Project (40%), Instructable or How-To Demonstration including Iterations and Prototypes, Product Narrative, Bill of Materials (BOM) Assessment, Design for Manufacture (DFM), Proof of Concept Model 
 
 * Additionally, satisfying the requirements of this class means: 
