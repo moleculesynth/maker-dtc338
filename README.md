@@ -47,9 +47,9 @@ To satisfy requirements of this course, students are expected to complete the fo
 * What is the Maker Movement? 
 * What is ‘Modular'? 
 ### Workshop#1, Robot Invasion! 
-* [Makezine.com](makezine.com)
-* [Instructables](instructables.com)
-* [Github](github.com)
+* [Makezine.com](http://www.makezine.com)
+* [Instructables](http://www.instructables.com)
+* [Github](https://github.com)
 
 ### Notes and Examples
 
