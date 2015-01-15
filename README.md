@@ -6,7 +6,7 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 - Travis Feldman, travis.feldman at gmail dot com
 - VMMC 211A, Fridays 11:30-12:30 and by appointment 
 
-[Class website](https://github.com/moleculesynth/maker-dtc338)
+[Class website](http://documentup.com/moleculesynth/maker-dtc338)
 
 [Class Wiki](https://github.com/moleculesynth/maker-dtc338/wiki)
 
