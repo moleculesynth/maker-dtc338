@@ -34,43 +34,146 @@ To satisfy requirements of this course, students are expected to complete the fo
 	* Final Project (40%), Instructable or How-To Demonstration including Iterations and Prototypes, Product Narrative, Bill of Materials (BOM) Assessment, Design for Manufacture (DFM), Proof of Concept Model 
 
 * Additionally, satisfying the requirements of this class means: 
-	* All reading/video/audio assignments completed on time and as assigned. 
-	* You are required to participate in the daily activities of our class — because we are learning in “workshop” mode, your presence in class, on time, every meeting is crucial. 
-	* Independent research projects should be completed with originality and an effort made to share learning with the rest of the class. 
-	* Students are expected to push themselves utilizing what is learned and what is already known in ways that are new, useful, and interesting to themselves, the class, and to the world. 
+	* All reading/video/audio assignments completed on time and as assigned.
+	* You are required to participate in the daily activities of our class — because we are learning in “workshop” mode, your presence in class, on time, every meeting is crucial.
+	* Independent research projects should be completed with originality and an effort made to share learning with the rest of the class.
+	* Students are expected to push themselves utilizing what is learned and what is already known in ways that are new, useful, and interesting to themselves, the class, and to the world.
 
 #Tentative Schedule
 
-## Week 1: January 16 
-###  Course Intro and Expectations 
+## Week 1: January 16 -- Workshop#1, Robot Invasion! 
+
+### Course Intro and Expectations 
 * Go over syllabus, discuss overview of class
 * What is the Maker Movement? 
 * What is ‘Modular'? 
-### Workshop#1, Robot Invasion! 
+
+### Notes, Key Terms, Examples
+* Maker
+* Culture 
+* Hack
+* Extruder 
+* DIY
+* Dorkbot
+
+### References
+* [Culture](http://www.merriam-webster.com/top-ten-lists/2014-word-of-the-year/culture.html)
+* [Hack](http://www.newyorker.com/tech/elements/a-short-history-of-hack)
+* [Dorkbotpdx](http://dorkbotpdx.org)
 * [Makezine.com](http://www.makezine.com)
 * [Instructables](http://www.instructables.com)
 * [Github](https://github.com)
+* [Molecule Synth Production 2013](https://vimeo.com/57865276)
 
-### Notes and Examples
+### Homework
+* Set up gmail and github accounts
+* watch ["Changing Educational Paradigms"](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
+* read ["Death of the Artist -- and Birth of the Creative Entrepreneur"](http://m.theatlantic.com/magazine/archive/2015/01/the-death-of-the-artist-and-the-birth-of-the-creative-entrepreneur/383497/?single_page=true)
+* read ["Soldering is Easy!"](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+
+## Week 2: January 23 -- Workshop#2: Soldering, Multimeters, Hello World!
+
+### Physical Electronics
+* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
+* What is ‘Design Thinking’? 
+
+### Notes, Key Terms, Examples
+* Physical Computing 
+* Solder
+* Circuit
+* Multimeter
+* Voltage
+* Current 
+* Resistance
+* Ohm's Law
+* [Microcontroller](http://en.wikipedia.org/wiki/Microcontroller)
+* [Microcomputer](https://learn.adafruit.com/category/microcomputers)
 
 ### References
+* [Arduino Homepage](http://www.Arduino.cc) 
+* [Sparkfun](https://www.sparkfun.com)
+* ["What Is The RedBoard?"](https://learn.sparkfun.com/tutorials/redboard-vs-uno)
+* [AdaFruit Learning System](https://learn.adafruit.com)
 
-### Readings
+### Homework
+* Write and post your project's Arduino code to github
+* Include in the code comments detailing why you chose it and what you did
+* watch ["Hackschooling makes me happy"(2012)](https://www.youtube.com/watch?v=h11u3vtcpaY)
+* watch [“Open Source Ed” (2013)](https://www.youtube.com/watch?v=XQmnZ_y1ocM)
+* watch [Zizek in "Examined Life"](https://www.youtube.com/watch?v=iGCfiv1xtoU)
+* watch [Landfill Harmonic](https://www.youtube.com/watch?v=fXynrsrTKbI)
 
-## Week 2: January 23 
-### Is ‘Making’ a new thing? What is ‘Design Thinking’? Physical Computing 
-* Arduino.cc 
-### Workshop#2: Soldering, Multimeters, Let’s Get Physical: “Hello World!”
+## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
 
-## Week 3: January 30 – Materials and Methods Part One 
-### Circuit Bending — Processing.org — Presentations Group A 
-### Workshop#3: Into the Void: Void the Warranty! 
+## Presentations Group A
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+
+### Notes, Key Terms, Examples
+* Materials and Methods, Part One 
+* [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
+* [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
+* [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
+
+### References
+* [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
+* [BPOW Recap](https://vimeo.com/72608861)
+
+### Homework
+* Upload photos and details in a short step-by-step write-up of how you did a circuit bend or break out
 
 ## Week 4: February 6 – Materials and Methods Part Two,  Processing and Arduino IDE, Studio.sketchpad.cc — Presentations Group B — Workshop#4: Programming Response, Resistance is Futile!
 
+## Presentations Group B
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+
+### Notes, Key Terms, Examples
+
+### References
+
+### Homework
+
+
 ## Week 5: February 13 – Analog Input and Output Part One, What is ‘Digital’?  — Presentations Group C — Workshop#5A: Programming Response, Viva la Resistance! 
 
+## Presentations Group C
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+
+### Notes, Key Terms, Examples
+
+### References
+
+### Homework
+
 ## Week 6: February 20 – Analog Input and Output Part Two, Machine Learning, What is ‘Autonomy’? — Presentations Group D — Workshop#5B: Programming Response, ‘I, Robot’!
+
+## Presentations Group D
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+* TBA
+
+### Notes, Key Terms, Examples
+
+### References
+
+### Homework
 
 ## Week 7: February 27 – Show and Tell, Prototype#1 Due: Robots Demo Day!  Group Reviews & Feedback on Prototypes
 
