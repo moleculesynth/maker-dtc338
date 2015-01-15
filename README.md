@@ -68,8 +68,9 @@ To satisfy requirements of this course, students are expected to complete the fo
 ### Homework
 * Set up gmail and github accounts
 * watch ["Changing Educational Paradigms"](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
+* read ["How the Makers Will Create a New Industrial Revolution"](http://www.forbes.com/sites/danschawbel/2012/10/04/chris-anderson-how-the-makers-will-create-a-new-industrial-revolution/)
 * read ["Death of the Artist -- and Birth of the Creative Entrepreneur"](http://m.theatlantic.com/magazine/archive/2015/01/the-death-of-the-artist-and-the-birth-of-the-creative-entrepreneur/383497/?single_page=true)
-* read ["Soldering is Easy!"](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+* Optional read: ["Soldering is Easy!"](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 
 ## Week 2: January 23 -- Workshop#2: Soldering, Multimeters, Hello World!
 
@@ -105,7 +106,7 @@ To satisfy requirements of this course, students are expected to complete the fo
 
 ## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
 
-## Presentations Group A
+Presentations Group A
 * TBA
 * TBA
 * TBA
@@ -126,9 +127,9 @@ To satisfy requirements of this course, students are expected to complete the fo
 ### Homework
 * Upload photos and details in a short step-by-step write-up of how you did a circuit bend or break out
 
-## Week 4: February 6 – Materials and Methods Part Two,  Processing and Arduino IDE, Studio.sketchpad.cc — Presentations Group B — Workshop#4: Programming Response, Resistance is Futile!
+## Week 4: February 6 – Workshop#4: Programming Response, Resistance is Futile!
 
-## Presentations Group B
+Presentations Group B
 * TBA
 * TBA
 * TBA
@@ -137,15 +138,17 @@ To satisfy requirements of this course, students are expected to complete the fo
 * TBA
 
 ### Notes, Key Terms, Examples
+* [Processing](http://processing.org)
 
 ### References
+* [Sketchpad](http://studio.sketchpad.cc)
 
 ### Homework
+* Write and post Processing sketch
 
+## Week 5: February 13 – Workshop#5A: Programming Response, Viva la Resistance!
 
-## Week 5: February 13 – Analog Input and Output Part One, What is ‘Digital’?  — Presentations Group C — Workshop#5A: Programming Response, Viva la Resistance! 
-
-## Presentations Group C
+Presentations Group C
 * TBA
 * TBA
 * TBA
@@ -154,14 +157,21 @@ To satisfy requirements of this course, students are expected to complete the fo
 * TBA
 
 ### Notes, Key Terms, Examples
+* Input
+* Output
+* DAC / ADC
+* Analog
+* Digital
 
 ### References
+* 
 
 ### Homework
+* TBA
 
-## Week 6: February 20 – Analog Input and Output Part Two, Machine Learning, What is ‘Autonomy’? — Presentations Group D — Workshop#5B: Programming Response, ‘I, Robot’!
+## Week 6: February 20 – Workshop#5B: Programming Response, ‘I, Robot’!
 
-## Presentations Group D
+Presentations Group D
 * TBA
 * TBA
 * TBA
@@ -170,30 +180,139 @@ To satisfy requirements of this course, students are expected to complete the fo
 * TBA
 
 ### Notes, Key Terms, Examples
+* Machine Learning
+* Autonomy
+* Algorithm
 
 ### References
+*
 
 ### Homework
+*
 
-## Week 7: February 27 – Show and Tell, Prototype#1 Due: Robots Demo Day!  Group Reviews & Feedback on Prototypes
+## Week 7: February 27 – Show and Tell, Demo Day
 
-## Week 8: March 6 – What is ‘Wearable’? “Start-ups” and Maker Culture, Kickstarter.com — Fitbit, Pebble, Arduino: Lilypad, Flora, and e-textiles — Presentations Group A — Workshop#6: It’s sew easy!
+* Prototype#1 Due
+* Group Reviews & Feedback on Prototypes
 
-## Week 9: March 13 – What is an IoT? Connected and Networked Objects Part One — Google Glass, Nest, Arduino: Yun, Galileo: Leonardo, R-Pi — Presentations Group B — Workshop#7: OMG!! The Internet is…Everything!
+## Week 8: March 6 – Workshop#6: It’s sew easy!
+
+Presentations Group A
+
+### Notes, Key Terms, Examples
+* e-textiles
+* wearables
+* start-up
+* crowdfunding
+* crowdsourcing
+
+### References
+* [Fitbit]
+* [Pebble]
+* [Lilypad]
+* [Flora]
+* [Kickstarter]
+* [Indiegogo]
+
+### Homework
+*
+
+## Week 9: March 13 – Workshop#7: OMG!! The Internet is…Everything!
+
+Presentations Group B
+
+### Notes, Key Terms, Examples
+* Networks
+* Networked Objects
+* Connected
+* Cloud
+* AWS
+* WiFi
+* BluTooth
+* Radio
+* IoT
+
+### References
+* [AWS](http://aws.amazon.com)
+* [Google Glass]
+* [Google Glass sales halted (1/15/15)](http://www.bbc.com/news/technology-30831128)
+* Nest
+* Yun
+* Leonardo
+
+### Homework
+*
 
 # Spring Break - No Classes March 20!
 
-## Week 10: March 27 – What is an API? Connected and Networked Objects Part Two — More Google Glass, IFTTT.com, API + processing + Arduino = Connected! — Presentations Group C — Workshop#8A: Going Global in a few lines of code
+## Week 10: March 27 – Workshop#8A: Going Global in a few lines of code
 
-## Week 11: April 3 – Multimedia, big data, and data visualization — Node.js, p5.js — Presentations Group D — Workshop#8B: Global Village Market
+Presentations Group C
 
-## Week 12: April 10 — Q&A, Review and open discussion — free build day, Workshop#8C
+### Notes, Key Terms, Examples
+* JavaScript
+* Server-side and client-side
+* API
+* Web Sockets
 
-## Week 13: April 17 – Show and Tell, Prototype#2 Due: Wearables Demo Day!  Group Reviews & Feedback on Prototypes
+### References
+* [API](http://en.wikipedia.org/wiki/Application_programming_interface)
+* [IFTTT](http://ifttt.com)
+* 
 
-## Week 14: April 24 – What is ‘Digital Fabrication’? Maker Culture and the access to Manufacturing — Workshop#9: Design for Manufacturing: Putting it all together
+### Homework
+*
 
-## Week 15: May 1 – Final Project Workshop — one-on-one discussions and final preparation of projects
+## Week 11: April 3 – Workshop#8B: Global Village 
 
-## Week 16: Finals Day: Exact Day/Time TBA Final Project Must Be Uploaded and Viewable online
+Presentations Group D
+
+### Notes, Key Terms, Examples
+* Big Data
+* Data Visualization
+* J
+
+### References
+* [Big Data](http://en.wikipedia.org/wiki/Big_data)
+* [Mike Bostock](http://bost.ocks.org/mike/)
+* [NYTimes 2013, Data Visualization](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/#dataviz)
+
+### Homework
+*
+
+## Week 12: April 10 — Free Buildy Day, Open Workshop
+
+### Maker Projects Review 
+* Q&A and Open Discussion
+
+### Homework
+* Proposal for Final Project Due (Sketch, model, BOM and description)
+
+## Week 13: April 17 – Show and Tell, Prototype#2 Due: Wearables Demo Day! 
+
+### Group Reviews & Feedback on Prototypes
+
+### Homework
+* Draft of slide deck images and description Due (Iterations, BOM Assessment, DFM notes)
+
+## Week 14: April 24 – Workshop#9: Design for Manufacturing: Putting it all together
+
+### Notes, Key Terms, Examples
+* Digital Fabrication
+* Access to Manufacturing
+
+### References
+* 
+
+### Homework
+*
+
+## Week 15: May 1 – Final Project Workshop 
+
+### TBA
+*
+*
+
+## Week 16: Finals Day: Exact Day/Time TBA 
+N.B.: Your Final Project Must Be Uploaded and Viewable Online Before Scheduled Final Exam
 
