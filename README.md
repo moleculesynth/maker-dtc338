@@ -6,7 +6,7 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 - Travis Feldman, travis.feldman at gmail dot com
 - VMMC 211A, Fridays 11:30-12:30 and by appointment 
 
-[Class website](http://documentup.com/moleculesynth/maker-dtc338)
+[Class website](https://github.com/moleculesynth/maker-dtc338/blob/master/README.md)
 
 [Class Wiki](https://github.com/moleculesynth/maker-dtc338/wiki)
 
@@ -121,6 +121,27 @@ Presentations Group A
 * [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
 
 ### References
+
+Synths
+* [Moog Werkstatt Kit](http://www.moogmusic.com/products/werkstatt/werkstatt-01-moogfest-2014-kit)
+* [Korg Monotron](http://www.korg.com/us/products/dj/monotron/)
+* [Lunetta Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit#)
+* [Serge Modular, unofficial page](http://www.serge.synth.net)
+* [Caspar Electronics](http://casperelectronics.com)
+* [GetLoFi](http://getlofi.com)
+
+Cameras
+* [Lomography Konstructor](http://shop.lomography.com/us/konstruktor)
+* [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki)
+* [Olympus Open Platform](http://opc.olympus-imaging.com)
+* [OTTO: Hackable R-Pi Camera](http://www.raspberrypi.org/otto-a-hackable-camera-powered-by-raspberry-pi/)
+
+Robots
+* [Hacking LEGO Mindstorms](http://makezine.com/2013/08/02/lego-mindstorms-ev3-source-code-available/)
+* [10 Years of Roomba Hacks](http://www.tested.com/tech/robots/453965-magic-marker-art-kinect-10-years-roomba-hacks/)
+* Furby Hacks & [Reverse Engineering Furby](http://hackaday.com/2013/01/28/reverse-engineering-the-furby/)
+
+Events
 * [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
 * [BPOW Recap](https://vimeo.com/72608861)
 
@@ -164,7 +185,7 @@ Presentations Group C
 * Digital
 
 ### References
-* 
+* Taking Hardware Back to Software - Minecraft Hacks and Mods
 
 ### Homework
 * TBA
