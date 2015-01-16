@@ -328,6 +328,7 @@ Presentations Group D
 
 ### Homework
 * Proposal for Final Project Due (Sketch, model, BOM and description)
+* watch [Fibonacci Zoetrope Sculptures](https://vimeo.com/116582567)
 
 ## Week 13: April 17 – Show and Tell, Prototype#2 Due: Wearables Demo Day! 
 
