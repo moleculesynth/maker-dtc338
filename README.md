@@ -26,7 +26,8 @@ To satisfy requirements of this course, students are expected to complete the fo
 * FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
 
 ## Requirements and Assessment 
-* Grades will be based on the following:
+
+Grades will be based on the following:
 	* Roundtable Class Discussions and Class Participation (20%)
 	* Response Papers (10%)
 	* Presentations (10%), including Medium/Slideshare/Prezi/Tumblr/Wordpress post 
@@ -50,11 +51,14 @@ To satisfy requirements of this course, students are expected to complete the fo
 
 ### Notes, Key Terms, Examples
 * Maker
-* Culture 
+* Culture
+* Makerspace
+* Hackerspace
 * Hack
+* Citizen Scientist
+* Autodidact
+* DIY or Do-It-Together
 * Extruder 
-* DIY
-* Dorkbot
 
 ### References
 * [Culture](http://www.merriam-webster.com/top-ten-lists/2014-word-of-the-year/culture.html)
@@ -64,12 +68,16 @@ To satisfy requirements of this course, students are expected to complete the fo
 * [Instructables](http://www.instructables.com)
 * [Github](https://github.com)
 * [Molecule Synth Production 2013](https://vimeo.com/57865276)
+* [Dorkbot](http://dorkbotpdx.org/wiki/about_dorkbotpdx)
 
 ### Homework
-* Set up gmail and github accounts
+* Set up your gmail and github accounts
 * watch ["Changing Educational Paradigms"](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
 * read ["How the Makers Will Create a New Industrial Revolution"](http://www.forbes.com/sites/danschawbel/2012/10/04/chris-anderson-how-the-makers-will-create-a-new-industrial-revolution/)
 * read ["Death of the Artist -- and Birth of the Creative Entrepreneur"](http://m.theatlantic.com/magazine/archive/2015/01/the-death-of-the-artist-and-the-birth-of-the-creative-entrepreneur/383497/?single_page=true)
+
+### EXTRAS
+* Optional watch: [Maker](http://makerthemovie.com)
 * Optional read: ["Soldering is Easy!"](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 
 ## Week 2: January 23 -- Workshop#2: Soldering, Multimeters, Hello World!
