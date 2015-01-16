@@ -72,12 +72,12 @@ Grades will be based on the following:
 * [Dorkbotpdx](http://dorkbotpdx.org)
 * [Makezine.com](http://www.makezine.com)
 * [Instructables](http://www.instructables.com)
-* [Github](https://github.com)
+* [GitHub](https://github.com)
 * [Molecule Synth Production 2013](https://vimeo.com/57865276)
 * [Dorkbot](http://dorkbotpdx.org/wiki/about_dorkbotpdx)
 
 ### Homework
-* Set up your gmail and github accounts
+* Set up your gmail and github accounts, join Google Group and post to Wiki
 * watch ["Changing Educational Paradigms"](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
 * read ["How the Makers Will Create a New Industrial Revolution"](http://www.forbes.com/sites/danschawbel/2012/10/04/chris-anderson-how-the-makers-will-create-a-new-industrial-revolution/)
 * read ["Death of the Artist -- and Birth of the Creative Entrepreneur"](http://m.theatlantic.com/magazine/archive/2015/01/the-death-of-the-artist-and-the-birth-of-the-creative-entrepreneur/383497/?single_page=true)
