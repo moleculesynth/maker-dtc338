@@ -52,6 +52,12 @@ Grades will be based on the following:
 ### Notes, Key Terms, Examples
 * Maker
 * Culture
+* Play
+* Education
+* Knowledge
+* "creativity"
+* "originality"
+* "Consumers" vs. "Makers"
 * Makerspace
 * Hackerspace
 * Hack
@@ -78,7 +84,9 @@ Grades will be based on the following:
 
 ### EXTRAS
 * Optional watch: [Maker](http://makerthemovie.com)
+* Optional watch: [John Cleese on Creativity](https://vimeo.com/89936101)
 * Optional read: ["Soldering is Easy!"](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+* Optional read: [Benjamin, "The Work of Art in the Age of Mechanical Reproduction"](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
 
 ## Week 2: January 23 -- Workshop#2: Soldering, Multimeters, Hello World!
 
@@ -88,6 +96,7 @@ Grades will be based on the following:
 
 ### Notes, Key Terms, Examples
 * Physical Computing 
+* Digital
 * Solder
 * Circuit
 * Multimeter
@@ -103,6 +112,8 @@ Grades will be based on the following:
 * [Sparkfun](https://www.sparkfun.com)
 * ["What Is The RedBoard?"](https://learn.sparkfun.com/tutorials/redboard-vs-uno)
 * [AdaFruit Learning System](https://learn.adafruit.com)
+* [_The Art of Electronics_](http://iate.oac.uncor.edu/~manuel/libros/ElectroMagnetism/The%20Art%20of%20Electronics%20-%20Horowitz%20&%20Hill.pdf)
+* [Forrest M. Mims III](http://www.forrestmims.org/publications.html)
 
 ### Homework
 * Write and post your project's Arduino code to github
@@ -113,6 +124,7 @@ Grades will be based on the following:
 * watch [Landfill Harmonic](https://www.youtube.com/watch?v=fXynrsrTKbI)
 
 ## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
+[Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
 
 Presentations Group A
 * TBA
