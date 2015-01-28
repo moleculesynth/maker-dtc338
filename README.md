@@ -26,21 +26,20 @@ To satisfy requirements of this course, students are expected to complete the fo
 * FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
 
 ## Requirements and Assessment 
-
-Grades will be based on the following:
+### Grades will be based on the following:
 	* Roundtable Class Discussions and Class Participation (20%)
 	* Response Papers (10%)
 	* Presentations (10%), including Medium/Slideshare/Prezi/Tumblr/Wordpress post 
 	* Prototypes (20%)
 	* Final Project (40%), Instructable or How-To Demonstration including Iterations and Prototypes, Product Narrative, Bill of Materials (BOM) Assessment, Design for Manufacture (DFM), Proof of Concept Model 
 
-* Additionally, satisfying the requirements of this class means: 
+### Additionally, satisfying the requirements of this class means: 
 	* All reading/video/audio assignments completed on time and as assigned.
 	* You are required to participate in the daily activities of our class — because we are learning in “workshop” mode, your presence in class, on time, every meeting is crucial.
 	* Independent research projects should be completed with originality and an effort made to share learning with the rest of the class.
 	* Students are expected to push themselves utilizing what is learned and what is already known in ways that are new, useful, and interesting to themselves, the class, and to the world.
 
-#Tentative Schedule
+# Course Schedule (may change as we go!)
 
 ## Week 1: January 16 -- Workshop#1, Robot Invasion! 
 
@@ -76,7 +75,7 @@ Grades will be based on the following:
 * [Molecule Synth Production 2013](https://vimeo.com/57865276)
 * [Dorkbot](http://dorkbotpdx.org/wiki/about_dorkbotpdx)
 
-### Homework
+### Homework for Next Class
 * Set up your gmail and github accounts, join Google Group and post to Wiki
 * watch ["Changing Educational Paradigms"](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
 * read ["How the Makers Will Create a New Industrial Revolution"](http://www.forbes.com/sites/danschawbel/2012/10/04/chris-anderson-how-the-makers-will-create-a-new-industrial-revolution/)
@@ -88,7 +87,7 @@ Grades will be based on the following:
 * Optional read: ["Soldering is Easy!"](http://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 * Optional read: [Benjamin, "The Work of Art in the Age of Mechanical Reproduction"](https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm)
 
-## Week 2: January 23 -- Workshop#2: Soldering, Multimeters, Hello World!
+## Week 2: January 23 -- Workshop#2: Arduino + GitHub = Hello World!
 
 ### Physical Electronics
 * Is our understanding of ‘Making’ new, or is it the same old making we've had? 
@@ -110,12 +109,13 @@ Grades will be based on the following:
 ### References
 * [Arduino Homepage](http://www.Arduino.cc) 
 * [Sparkfun](https://www.sparkfun.com)
+* ["What is an Arduino?"](https://learn.sparkfun.com/tutorials/what-is-an-arduino)
 * ["What Is The RedBoard?"](https://learn.sparkfun.com/tutorials/redboard-vs-uno)
 * [AdaFruit Learning System](https://learn.adafruit.com)
 * [_The Art of Electronics_](http://iate.oac.uncor.edu/~manuel/libros/ElectroMagnetism/The%20Art%20of%20Electronics%20-%20Horowitz%20&%20Hill.pdf)
 * [Forrest M. Mims III](http://www.forrestmims.org/publications.html)
 
-### Homework
+### Homework for Next Class
 * Write and post your project's Arduino code to github
 * Include in the code comments detailing why you chose it and what you did
 * watch ["Hackschooling makes me happy"(2012)](https://www.youtube.com/watch?v=h11u3vtcpaY)
@@ -127,12 +127,12 @@ Grades will be based on the following:
 [Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
 
 Presentations Group A
-* TBA
-* TBA
-* TBA
-* TBA
-* TBA
-* TBA
+* Alan McGinnis
+* Cody Moncur
+* Keely Bitton
+* Stephen Schmeling
+* Justin Williams
+* Rosemary Nielson
 
 ### Notes, Key Terms, Examples
 * Materials and Methods, Part One 
