@@ -18,12 +18,12 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 * Notebook or journal for in-class sketches, drawing, and response; also, pen or pencil. 
 
 ## Assignments 
-To satisfy requirements of this course, students are expected to complete the following: 
-* RESPONSE PAPERS: Wiki/classlist short written reflections or responses on topics of interest
-* WEEKLY WORKSHOP CHALLENGES: In-class design and building challenges
-* TWO PRESENTATIONS: Medium/Slideshare/Prezi/Tumblr/Wordpress post and in-class quick presentation on select projects or concepts of “Maker Culture”
-* TWO PROTOTYPES: Designing, documenting and building your own Maker Projects (Robot/Microcontroller, Wearable/IoT, 3D Printed/Digitally Fabricated)
-* FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
+### To satisfy requirements of this course, students are expected to complete the following: 
+	* RESPONSE PAPERS: Wiki/classlist short written reflections or responses on topics of interest
+	* WEEKLY WORKSHOP CHALLENGES: In-class design and building challenges
+	* TWO PRESENTATIONS: Medium/Slideshare/Prezi/Tumblr/Wordpress post and in-class quick presentation on select projects or concepts of “Maker Culture”
+	* TWO PROTOTYPES: Designing, documenting and building your own Maker Projects (Robot/Microcontroller, Wearable/IoT, 3D Printed/Digitally Fabricated)
+	* FINAL PROJECT: Creating a full “Instructables”-like How-To Demonstration for your own original Maker Project
 
 ## Requirements and Assessment 
 ### Grades will be based on the following:
@@ -44,26 +44,26 @@ To satisfy requirements of this course, students are expected to complete the fo
 ## Week 1: January 16 -- Workshop#1, Robot Invasion! 
 
 ### Course Intro and Expectations 
-* Go over syllabus, discuss overview of class
-* What is the Maker Movement? 
-* What is ‘Modular'? 
+	* Go over syllabus, discuss overview of class
+	* What is the Maker Movement? 
+	* What is ‘Modular'? 
 
 ### Notes, Key Terms, Examples
-* Maker
-* Culture
-* Play
-* Education
-* Knowledge
-* "creativity"
-* "originality"
-* "Consumers" vs. "Makers"
-* Makerspace
-* Hackerspace
-* Hack
-* Citizen Scientist
-* Autodidact
-* DIY or Do-It-Together
-* Extruder 
+	* Maker
+	* Culture
+	* Play
+	* Education
+	* Knowledge
+	* "creativity"
+	* "originality"
+	* "Consumers" vs. "Makers"
+	* Makerspace
+	* Hackerspace
+	* Hack
+	* Citizen Scientist
+	* Autodidact
+	* DIY or Do-It-Together
+	* Extruder 
 
 ### References
 * [Culture](http://www.merriam-webster.com/top-ten-lists/2014-word-of-the-year/culture.html)
@@ -92,6 +92,7 @@ To satisfy requirements of this course, students are expected to complete the fo
 ### Physical Electronics
 * Is our understanding of ‘Making’ new, or is it the same old making we've had? 
 * What is ‘Design Thinking’? 
+* What's beyond QWERTY and a 'mouse'? "Interactive"?
 
 ### Notes, Key Terms, Examples
 * Physical Computing 
@@ -124,7 +125,14 @@ To satisfy requirements of this course, students are expected to complete the fo
 * watch [Landfill Harmonic](https://www.youtube.com/watch?v=fXynrsrTKbI)
 
 ## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
-[Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
+
+### [Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
+
+What is Circuit Bending?  "Circuit bending is one of the most interesting forms of tinkering. It’s the
+creative short-circuiting of low-voltage, battery-powered electronic audio
+devices such as guitar effect pedals, children’s toys, and small synthesizers
+to create new musical instruments and sound generators. The heart
+of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Arduino (2011.10)
 
 Presentations Group A
 * Alan McGinnis
@@ -139,36 +147,43 @@ Presentations Group A
 * [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
 * [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
 * [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
+* [Warm-up exercises for circuit bending](http://createdigitalmusic.com/2007/10/warm-up-exercises-for-the-circuit-bending-challenge/)
+* [Caspar Electronics' Circuit Bent Instruments and Toys](http://casperelectronics.com/finished-pieces/) - for ideas and inspiration
 
 ### References
 
 Synths
-* [Moog Werkstatt Kit](http://www.moogmusic.com/products/werkstatt/werkstatt-01-moogfest-2014-kit)
-* [Korg Monotron](http://www.korg.com/us/products/dj/monotron/)
-* [Lunetta Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit#)
-* [Serge Modular, unofficial page](http://www.serge.synth.net)
-* [Caspar Electronics](http://casperelectronics.com)
-* [GetLoFi](http://getlofi.com)
+	* [Moog Werkstatt Kit](http://www.moogmusic.com/products/werkstatt/werkstatt-01-moogfest-2014-kit)
+	* [Korg Monotron](http://www.korg.com/us/products/dj/monotron/)
+	* [Lunetta Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit#)
+	* [Serge Modular, unofficial page](http://www.serge.synth.net)
+	* [Caspar Electronics](http://casperelectronics.com)
+	* [GetLoFi](http://getlofi.com)
 
 Cameras
-* [Lomography Konstructor](http://shop.lomography.com/us/konstruktor)
-* [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki)
-* [Olympus Open Platform](http://opc.olympus-imaging.com)
-* [OTTO: Hackable R-Pi Camera](http://www.raspberrypi.org/otto-a-hackable-camera-powered-by-raspberry-pi/)
+	* [Lomography Konstructor](http://shop.lomography.com/us/konstruktor)
+	* [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki)
+	* [Olympus Open Platform](http://opc.olympus-imaging.com)
+	* [OTTO: Hackable R-Pi Camera](http://www.raspberrypi.org/otto-a-hackable-camera-powered-by-raspberry-pi/)
 
 Robots
-* [Hacking LEGO Mindstorms](http://makezine.com/2013/08/02/lego-mindstorms-ev3-source-code-available/)
-* [10 Years of Roomba Hacks](http://www.tested.com/tech/robots/453965-magic-marker-art-kinect-10-years-roomba-hacks/)
-* Furby Hacks & [Reverse Engineering Furby](http://hackaday.com/2013/01/28/reverse-engineering-the-furby/)
+	* [Hacking LEGO Mindstorms](http://makezine.com/2013/08/02/lego-mindstorms-ev3-source-code-available/)
+	* [10 Years of Roomba Hacks](http://www.tested.com/tech/robots/453965-magic-marker-art-kinect-10-years-roomba-hacks/)
+	* Furby Hacks & [Reverse Engineering Furby](http://hackaday.com/2013/01/28/reverse-engineering-the-furby/)
 
-Events
-* [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
-* [BPOW Recap](https://vimeo.com/72608861)
+DIY Electronics Events
+	* [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
+	* [BPOW Recap](https://vimeo.com/72608861)
+	* Maker Faires and Mini-Maker Faires
+	* DorkBot Meetings
+	* Meetups like [PDX Electro Hax](http://www.meetup.com/PDXElectroHax/) - see [Meetup.com](http://www.meetup.com) for more, or Start Your Own!
 
 ### Homework
-* Upload photos and details in a short step-by-step write-up of how you did a circuit bend or break out
+Upload photos and details in a short step-by-step write-up of how you did a circuit bend or break out: keep in mind DETAILS matter and will be of significant interest to everyone, so please show-and-tell your circuit bend in all of its developmental stages.  Also, you might want to search around for other circuit bends -- you might find that someone else has done some incredible things with the toy or instrument that you are working on, and if nothing else, seeing more circuit bends will give you new things to consider while creating your own.
 
-## Week 4: February 6 – Workshop#4: Programming Response, Resistance is Futile!
+## Week 4: February 6 – Workshop#4: Back to Arduino & Programming Response, Resistance is Futile!
+
+Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects.  This is a step into the world of designing physical interfaces, embedded programs and "interactivity."
 
 Presentations Group B
 * TBA
@@ -180,37 +195,61 @@ Presentations Group B
 
 ### Notes, Key Terms, Examples
 * [Processing](http://processing.org)
+* [Arduino IDE](http://arduino.cc/en/main/software)
+* [Scratch](http://scratch.mit.edu)
+* [Arduino Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
+* [AdaFruit Learn Arduino](https://learn.adafruit.com/category/learn-arduino)
+* [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
+* [Arduino Manuals and Curriculum](http://playground.arduino.cc/Main/ManualsAndCurriculum)
+* Sketch
+* setup
+* loop
+* GPIO
+* Input
+* Output
+* Debounce
 
 ### References
 * [Sketchpad](http://studio.sketchpad.cc)
 
 ### Homework
-* Write and post Processing sketch
+* Write and post your own Arduino or Processing sketch, describe either in comments or in a separate txt file (1) what you started with, (2) what you experienced, (3) what you changed, (4) what you experienced after changes were made, (5) what you ended up with, and (6) what you think this project might lead to for you or others (what ELSE could be done with this?).
 
 ## Week 5: February 13 – Workshop#5A: Programming Response, Viva la Resistance!
 
+Today we come back to Arduinos, building upon what we have already done.  We have made blinky LEDs, integrated buttons and potentiometers, and now let's see if we make devices that perform multiple functions from multiple inputs.  Bonus points for connecting more than one Arduino board in your project! 
+
+N.B. In addition to our regular activities in the next two classes, we will make time to work on or address questions concering your first Prototype assignment, which is due in class on February 27.
+
 Presentations Group C
-* TBA
-* TBA
-* TBA
+* Suhaily Erkkila
+* Amanda Hobbs
+* Jewell Harrington III
 * TBA
 * TBA
 * TBA
 
 ### Notes, Key Terms, Examples
-* Input
-* Output
-* DAC / ADC
+* Shields and specialized hardware for Arduino - see [Shields](http://shieldlist.org) for a full list
+* [Multitasking the Arduino](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
+* [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware#Communication)
+* [Serial](http://arduino.cc/en/reference/serial) communication - Knock, knock "What did one Arduino say to the other?" 
+* [I2C](http://playground.arduino.cc/Learning/I2C)
+* [DAC](http://en.wikipedia.org/wiki/Digital-to-analog_converter) / [ADC](http://en.wikipedia.org/wiki/Analog-to-digital_converter)
 * Analog
 * Digital
+* [Analog Vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 
 ### References
-* Taking Hardware Back to Software - Minecraft Hacks and Mods
+* [Making Things Talk](http://www.makingthingstalk.com)
+* [Making Things See](http://makingthingssee.com)
 
 ### Homework
-* TBA
+* Email to the Class Google Group a full project proposal for your Prototype - you might include any sketches, diagrams, schematics, code / sample code, videos or photos that have helped your thinking develop on this.  This is an opportunity to collect your ideas on this, brainstorm a bit, state the "problem" your project is addressing or solving, and start thinking about possible refinements or iterative variants you'll be exploring.  Include the following in the subject line: "Prototype#1 Proposal: [Title and your name]"  -- Due before class on February 20.
 
 ## Week 6: February 20 – Workshop#5B: Programming Response, ‘I, Robot’!
+
+Today's workshop will focus on creating an autonomous device. Let's see if we can build something with our Arduinos that operates on its own.  Is it "deciding" to do things? Is it "behaving" in its own way?  Do our independently operating Arduinos drift into dreams of electric sheep?  
 
 Presentations Group D
 * TBA
@@ -221,17 +260,21 @@ Presentations Group D
 * TBA
 
 ### Notes, Key Terms, Examples
-* Machine Learning
 * Autonomy
 * Algorithm
+* Machine Learning
+* Current
+* Voltage
+* Stepper motor
 
 ### References
-*
+* [Autonomous Arduino Car](http://www.instructables.com/id/Autonomous-Arduino-Car/)
+* [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)
 
 ### Homework
-*
+* Finish your Prototype#1
 
-## Week 7: February 27 – Show and Tell, Demo Day
+## Week 7: February 27 – Show-and-Tell, Demo Day!
 
 * Prototype#1 Due
 * Group Reviews & Feedback on Prototypes
