@@ -90,22 +90,22 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 2: January 23 -- Workshop#2: Arduino + GitHub = Hello World!
 
 ### Physical Electronics
-* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
-* What is ‘Design Thinking’? 
-* What's beyond QWERTY and a 'mouse'? "Interactive"?
+	* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
+	* What is ‘Design Thinking’? 
+	* What's beyond QWERTY and a 'mouse'? "Interactive"?
 
 ### Notes, Key Terms, Examples
-* Physical Computing 
-* Digital
-* Solder
-* Circuit
-* Multimeter
-* Voltage
-* Current 
-* Resistance
-* Ohm's Law
-* [Microcontroller](http://en.wikipedia.org/wiki/Microcontroller)
-* [Microcomputer](https://learn.adafruit.com/category/microcomputers)
+	* Physical Computing 
+	* Digital
+	* Solder
+	* Circuit
+	* Multimeter
+	* Voltage
+	* Current 
+	* Resistance
+	* Ohm's Law
+	* [Microcontroller](http://en.wikipedia.org/wiki/Microcontroller)
+	* [Microcomputer](https://learn.adafruit.com/category/microcomputers)
 
 ### References
 * [Arduino Homepage](http://www.Arduino.cc) 
@@ -134,21 +134,21 @@ devices such as guitar effect pedals, children’s toys, and small synthesizers
 to create new musical instruments and sound generators. The heart
 of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Arduino (2011.10)
 
-Presentations Group A
-* Alan McGinnis
-* Cody Moncur
-* Keely Bitton
-* Stephen Schmeling
-* Justin Williams
-* Rosemary Nielson
+	Presentations Group A
+	* Alan McGinnis
+	* Cody Moncur
+	* Keely Bitton
+	* Stephen Schmeling
+	* Justin Williams
+	* Rosemary Nielson
 
 ### Notes, Key Terms, Examples
-* Materials and Methods, Part One 
-* [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
-* [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
-* [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
-* [Warm-up exercises for circuit bending](http://createdigitalmusic.com/2007/10/warm-up-exercises-for-the-circuit-bending-challenge/)
-* [Caspar Electronics' Circuit Bent Instruments and Toys](http://casperelectronics.com/finished-pieces/) - for ideas and inspiration
+	* Materials and Methods, Part One 
+	* [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
+	* [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
+	* [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
+	* [Warm-up exercises for circuit bending](http://createdigitalmusic.com/2007/10/warm-up-exercises-for-the-circuit-bending-challenge/)
+	* [Caspar Electronics' Circuit Bent Instruments and Toys](http://casperelectronics.com/finished-pieces/) - for ideas and inspiration
 
 ### References
 
@@ -185,29 +185,29 @@ Upload photos and details in a short step-by-step write-up of how you did a circ
 
 Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects.  This is a step into the world of designing physical interfaces, embedded programs and "interactivity."
 
-Presentations Group B
-* TBA
-* TBA
-* TBA
-* TBA
-* TBA
-* TBA
+	Presentations Group B
+	* TBA
+	* TBA
+	* TBA
+	* TBA
+	* TBA
+	* TBA
 
 ### Notes, Key Terms, Examples
-* [Processing](http://processing.org)
-* [Arduino IDE](http://arduino.cc/en/main/software)
-* [Scratch](http://scratch.mit.edu)
-* [Arduino Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
-* [AdaFruit Learn Arduino](https://learn.adafruit.com/category/learn-arduino)
-* [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
-* [Arduino Manuals and Curriculum](http://playground.arduino.cc/Main/ManualsAndCurriculum)
-* Sketch
-* setup
-* loop
-* GPIO
-* Input
-* Output
-* Debounce
+	* [Processing](http://processing.org)
+	* [Arduino IDE](http://arduino.cc/en/main/software)
+	* [Scratch](http://scratch.mit.edu)
+	* [Arduino Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
+	* [AdaFruit Learn Arduino](https://learn.adafruit.com/category/learn-arduino)
+	* [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
+	* [Arduino Manuals and Curriculum](http://playground.arduino.cc/Main/ManualsAndCurriculum)
+	* Sketch
+	* setup
+	* loop
+	* GPIO
+	* Input
+	* Output
+	* Debounce
 
 ### References
 * [Sketchpad](http://studio.sketchpad.cc)
@@ -221,24 +221,24 @@ Today we come back to Arduinos, building upon what we have already done.  We hav
 
 N.B. In addition to our regular activities in the next two classes, we will make time to work on or address questions concering your first Prototype assignment, which is due in class on February 27.
 
-Presentations Group C
-* Suhaily Erkkila
-* Amanda Hobbs
-* Jewell Harrington III
-* TBA
-* TBA
-* TBA
+	Presentations Group C
+	* Suhaily Erkkila
+	* Amanda Hobbs
+	* Jewell Harrington III
+	* TBA
+	* TBA
+	* TBA
 
 ### Notes, Key Terms, Examples
-* Shields and specialized hardware for Arduino - see [Shields](http://shieldlist.org) for a full list
-* [Multitasking the Arduino](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
-* [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware#Communication)
-* [Serial](http://arduino.cc/en/reference/serial) communication - Knock, knock "What did one Arduino say to the other?" 
-* [I2C](http://playground.arduino.cc/Learning/I2C)
-* [DAC](http://en.wikipedia.org/wiki/Digital-to-analog_converter) / [ADC](http://en.wikipedia.org/wiki/Analog-to-digital_converter)
-* Analog
-* Digital
-* [Analog Vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
+	* Shields and specialized hardware for Arduino - see [Shields](http://shieldlist.org) for a full list
+	* [Multitasking the Arduino](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
+	* [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware#Communication)
+	* [Serial](http://arduino.cc/en/reference/serial) communication - Knock, knock "What did one Arduino say to the other?" 
+	* [I2C](http://playground.arduino.cc/Learning/I2C)
+	* [DAC](http://en.wikipedia.org/wiki/Digital-to-analog_converter) / [ADC](http://en.wikipedia.org/wiki/Analog-to-digital_converter)
+	* Analog
+	* Digital
+	* [Analog Vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 
 ### References
 * [Making Things Talk](http://www.makingthingstalk.com)
@@ -251,21 +251,21 @@ Presentations Group C
 
 Today's workshop will focus on creating an autonomous device. Let's see if we can build something with our Arduinos that operates on its own.  Is it "deciding" to do things? Is it "behaving" in its own way?  Do our independently operating Arduinos drift into dreams of electric sheep?  
 
-Presentations Group D
-* TBA
-* TBA
-* TBA
-* TBA
-* TBA
-* TBA
+	Presentations Group D
+	* TBA
+	* TBA
+	* TBA
+	* TBA
+	* TBA
+	* TBA
 
 ### Notes, Key Terms, Examples
-* Autonomy
-* Algorithm
-* Machine Learning
-* Current
-* Voltage
-* Stepper motor
+	* Autonomy
+	* Algorithm
+	* Machine Learning
+	* Current
+	* Voltage
+	* Stepper motor
 
 ### References
 * [Autonomous Arduino Car](http://www.instructables.com/id/Autonomous-Arduino-Car/)
@@ -281,14 +281,14 @@ Presentations Group D
 
 ## Week 8: March 6 – Workshop#6: It’s sew easy!
 
-Presentations Group A
+	Presentations Group A
 
 ### Notes, Key Terms, Examples
-* e-textiles
-* wearables
-* start-up
-* crowdfunding
-* crowdsourcing
+	* e-textiles
+	* wearables
+	* start-up
+	* crowdfunding
+	* crowdsourcing
 
 ### References
 * [Fitbit]
@@ -303,18 +303,18 @@ Presentations Group A
 
 ## Week 9: March 13 – Workshop#7: OMG!! The Internet is…Everything!
 
-Presentations Group B
+	Presentations Group B
 
 ### Notes, Key Terms, Examples
-* Networks
-* Networked Objects
-* Connected
-* Cloud
-* AWS
-* WiFi
-* BluTooth
-* Radio
-* IoT
+	* Networks
+	* Networked Objects
+	* Connected
+	* Cloud
+	* AWS
+	* WiFi
+	* BluTooth
+	* Radio
+	* IoT
 
 ### References
 * [AWS](http://aws.amazon.com)
@@ -331,13 +331,13 @@ Presentations Group B
 
 ## Week 10: March 27 – Workshop#8A: Going Global in a few lines of code
 
-Presentations Group C
+	Presentations Group C
 
 ### Notes, Key Terms, Examples
-* JavaScript
-* Server-side and client-side
-* API
-* Web Sockets
+	* JavaScript
+	* Server-side and client-side
+	* API
+	* Web Sockets
 
 ### References
 * [API](http://en.wikipedia.org/wiki/Application_programming_interface)
@@ -349,12 +349,12 @@ Presentations Group C
 
 ## Week 11: April 3 – Workshop#8B: Global Village 
 
-Presentations Group D
+	Presentations Group D
 
 ### Notes, Key Terms, Examples
-* Big Data
-* Data Visualization
-* J
+	* Big Data
+	* Data Visualization
+	* J
 
 ### References
 * [Big Data](http://en.wikipedia.org/wiki/Big_data)
