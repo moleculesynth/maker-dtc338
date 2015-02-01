@@ -124,7 +124,7 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 * watch [Zizek in "Examined Life"](https://www.youtube.com/watch?v=iGCfiv1xtoU)
 * watch [Landfill Harmonic](https://www.youtube.com/watch?v=fXynrsrTKbI)
 
-## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
+## Week 3: January 30 –- Workshop#3: Into the Void, Void the Warranty! 
 
 ### Presentations Group A
 	* Alan McGinnis
@@ -136,7 +136,7 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 
 ### Notes, Key Terms, Examples
 * What is Circuit Bending? 
-	"Circuit bending is one of the most interesting forms of tinkering. It’s the
+	* "Circuit bending is one of the most interesting forms of tinkering. It’s the
 	creative short-circuiting of low-voltage, battery-powered electronic audio
 	devices such as guitar effect pedals, children’s toys, and small synthesizers
 	to create new musical instruments and sound generators. The heart
