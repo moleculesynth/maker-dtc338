@@ -44,26 +44,26 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 1: January 16 -- Workshop#1, Robot Invasion! 
 
 ### Course Intro and Expectations 
-	* Go over syllabus, discuss overview of class
-	* What is the Maker Movement? 
-	* What is ‘Modular'? 
+* Go over syllabus, discuss overview of class
+* What is the Maker Movement? 
+* What is ‘Modular'? 
 
 ### Notes, Key Terms, Examples
-	* Maker
-	* Culture
-	* Play
-	* Education
-	* Knowledge
-	* "creativity"
-	* "originality"
-	* "Consumers" vs. "Makers"
-	* Makerspace
-	* Hackerspace
-	* Hack
-	* Citizen Scientist
-	* Autodidact
-	* DIY or Do-It-Together
-	* Extruder 
+* Maker
+* Culture
+* Play
+* Education
+* Knowledge
+* "creativity"
+* "originality"
+* "Consumers" vs. "Makers"
+* Makerspace
+* Hackerspace
+* Hack
+* Citizen Scientist
+* Autodidact
+* DIY or Do-It-Together
+* Extruder 
 
 ### References
 * [Culture](http://www.merriam-webster.com/top-ten-lists/2014-word-of-the-year/culture.html)
@@ -90,9 +90,9 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 2: January 23 -- Workshop#2: Arduino + GitHub = Hello World!
 
 ### Physical Electronics
-	* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
-	* What is ‘Design Thinking’? 
-	* What's beyond QWERTY and a 'mouse'? "Interactive"?
+* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
+* What is ‘Design Thinking’? 
+* What's beyond QWERTY and a 'mouse'? "Interactive"?
 
 ### Notes, Key Terms, Examples
 * Physical Computing 	
@@ -126,15 +126,7 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 
 ## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
 
-### [Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
-### What is Circuit Bending?  
-	"Circuit bending is one of the most interesting forms of tinkering. It’s the
-	creative short-circuiting of low-voltage, battery-powered electronic audio
-	devices such as guitar effect pedals, children’s toys, and small synthesizers
-	to create new musical instruments and sound generators. The heart
-	of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Arduino (2011.10)
-
-	Presentations Group A
+### Presentations Group A
 	* Alan McGinnis
 	* Cody Moncur
 	* Keely Bitton
@@ -143,7 +135,13 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 	* Rosemary Nielson
 
 ### Notes, Key Terms, Examples
-* Materials and Methods, Part One 
+* What is Circuit Bending? 
+	"Circuit bending is one of the most interesting forms of tinkering. It’s the
+	creative short-circuiting of low-voltage, battery-powered electronic audio
+	devices such as guitar effect pedals, children’s toys, and small synthesizers
+	to create new musical instruments and sound generators. The heart
+	of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Arduino (2011.10)
+* [Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
 * [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
 * [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
 * [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
@@ -185,7 +183,7 @@ Upload photos and details in a short step-by-step write-up of how you did a circ
 
 Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects -- get ready, we're launching into the world of designing physical interfaces, embedded programs and "interactivity" !
 
-	Presentations Group B
+### Presentations Group B
 	* TBA
 	* TBA
 	* TBA
@@ -221,7 +219,7 @@ Today we come back to Arduinos, building upon what we have already done.  We hav
 
 N.B. In addition to our regular activities in the next two classes, we will make time to work on or address questions concering your first Prototype assignment, which is due in class on February 27.
 
-	Presentations Group C
+### Presentations Group C
 	* Suhaily Erkkila
 	* Amanda Hobbs
 	* Jewell Harrington III
@@ -251,7 +249,7 @@ N.B. In addition to our regular activities in the next two classes, we will make
 
 Today's workshop will focus on creating an autonomous device. Let's see if we can build something with our Arduinos that operates on its own.  Is it "deciding" to do things? Is it "behaving" in its own way?  Do our independently operating Arduinos drift into dreams of electric sheep?  
 
-	Presentations Group D
+### Presentations Group D
 	* TBA
 	* TBA
 	* TBA
