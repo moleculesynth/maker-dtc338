@@ -90,22 +90,22 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 2: January 23 -- Workshop#2: Arduino + GitHub = Hello World!
 
 ### Physical Electronics
-	* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
-	* What is ‘Design Thinking’? 
-	* What's beyond QWERTY and a 'mouse'? "Interactive"?
+* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
+* What is ‘Design Thinking’? 
+* What's beyond QWERTY and a 'mouse'? "Interactive"?
 
 ### Notes, Key Terms, Examples
-	* Physical Computing 
-	* Digital
-	* Solder
-	* Circuit
-	* Multimeter
-	* Voltage
-	* Current 
-	* Resistance
-	* Ohm's Law
-	* [Microcontroller](http://en.wikipedia.org/wiki/Microcontroller)
-	* [Microcomputer](https://learn.adafruit.com/category/microcomputers)
+* Physical Computing 	
+* Digital
+* Solder
+* Circuit
+* Multimeter
+* Voltage
+* Current 
+* Resistance
+* Ohm's Law
+* [Microcontroller](http://en.wikipedia.org/wiki/Microcontroller)
+* [Microcomputer](https://learn.adafruit.com/category/microcomputers)
 
 ### References
 * [Arduino Homepage](http://www.Arduino.cc) 
@@ -143,16 +143,16 @@ of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Ar
 	* Rosemary Nielson
 
 ### Notes, Key Terms, Examples
-	* Materials and Methods, Part One 
-	* [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
-	* [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
-	* [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
-	* [Warm-up exercises for circuit bending](http://createdigitalmusic.com/2007/10/warm-up-exercises-for-the-circuit-bending-challenge/)
-	* [Caspar Electronics' Circuit Bent Instruments and Toys](http://casperelectronics.com/finished-pieces/) - for ideas and inspiration
+* Materials and Methods, Part One 
+* [Landfill Harmonic](https://www.youtube.com/watch?v=yiYFcuIkBjU)
+* [Electric Waste Orchestra](https://makerspaceurbana.org/projects/electric-waste-orchestra/)
+* [Circuit Bending](http://en.wikipedia.org/wiki/Circuit_bending)
+* [Warm-up exercises for circuit bending](http://createdigitalmusic.com/2007/10/warm-up-exercises-for-the-circuit-bending-challenge/)
+* [Caspar Electronics' Circuit Bent Instruments and Toys](http://casperelectronics.com/finished-pieces/) - for ideas and inspiration
 
 ### References
 
-Synths
+	Synths
 	* [Moog Werkstatt Kit](http://www.moogmusic.com/products/werkstatt/werkstatt-01-moogfest-2014-kit)
 	* [Korg Monotron](http://www.korg.com/us/products/dj/monotron/)
 	* [Lunetta Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit#)
@@ -160,18 +160,18 @@ Synths
 	* [Caspar Electronics](http://casperelectronics.com)
 	* [GetLoFi](http://getlofi.com)
 
-Cameras
+	Cameras
 	* [Lomography Konstructor](http://shop.lomography.com/us/konstruktor)
 	* [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki)
 	* [Olympus Open Platform](http://opc.olympus-imaging.com)
 	* [OTTO: Hackable R-Pi Camera](http://www.raspberrypi.org/otto-a-hackable-camera-powered-by-raspberry-pi/)
 
-Robots
+	Robots
 	* [Hacking LEGO Mindstorms](http://makezine.com/2013/08/02/lego-mindstorms-ev3-source-code-available/)
 	* [10 Years of Roomba Hacks](http://www.tested.com/tech/robots/453965-magic-marker-art-kinect-10-years-roomba-hacks/)
 	* Furby Hacks & [Reverse Engineering Furby](http://hackaday.com/2013/01/28/reverse-engineering-the-furby/)
 
-DIY Electronics Events
+	DIY Electronics Events
 	* [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
 	* [BPOW Recap](https://vimeo.com/72608861)
 	* Maker Faires and Mini-Maker Faires
@@ -194,20 +194,20 @@ Our second Arduino workshop will be a challenge to find interesting ways of inte
 	* TBA
 
 ### Notes, Key Terms, Examples
-	* [Processing](http://processing.org)
-	* [Arduino IDE](http://arduino.cc/en/main/software)
-	* [Scratch](http://scratch.mit.edu)
-	* [Arduino Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
-	* [AdaFruit Learn Arduino](https://learn.adafruit.com/category/learn-arduino)
-	* [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
-	* [Arduino Manuals and Curriculum](http://playground.arduino.cc/Main/ManualsAndCurriculum)
-	* Sketch
-	* setup
-	* loop
-	* GPIO
-	* Input
-	* Output
-	* Debounce
+* [Processing](http://processing.org)
+* [Arduino IDE](http://arduino.cc/en/main/software)
+* [Scratch](http://scratch.mit.edu)
+* [Arduino Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
+* [AdaFruit Learn Arduino](https://learn.adafruit.com/category/learn-arduino)
+* [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
+* [Arduino Manuals and Curriculum](http://playground.arduino.cc/Main/ManualsAndCurriculum)
+* Sketch
+* setup
+* loop
+* GPIO
+* Input
+* Output
+* Debounce
 
 ### References
 * [Sketchpad](http://studio.sketchpad.cc)
@@ -230,15 +230,15 @@ N.B. In addition to our regular activities in the next two classes, we will make
 	* TBA
 
 ### Notes, Key Terms, Examples
-	* Shields and specialized hardware for Arduino - see [Shields](http://shieldlist.org) for a full list
-	* [Multitasking the Arduino](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
-	* [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware#Communication)
-	* [Serial](http://arduino.cc/en/reference/serial) communication - Knock, knock "What did one Arduino say to the other?" 
-	* [I2C](http://playground.arduino.cc/Learning/I2C)
-	* [DAC](http://en.wikipedia.org/wiki/Digital-to-analog_converter) / [ADC](http://en.wikipedia.org/wiki/Analog-to-digital_converter)
-	* Analog
-	* Digital
-	* [Analog Vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
+* Shields and specialized hardware for Arduino - see [Shields](http://shieldlist.org) for a full list
+* [Multitasking the Arduino](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
+* [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware#Communication)
+* [Serial](http://arduino.cc/en/reference/serial) communication - Knock, knock "What did one Arduino say to the other?" 
+* [I2C](http://playground.arduino.cc/Learning/I2C)
+* [DAC](http://en.wikipedia.org/wiki/Digital-to-analog_converter) / [ADC](http://en.wikipedia.org/wiki/Analog-to-digital_converter)
+* Analog
+* Digital
+* [Analog Vs. Digital](https://learn.sparkfun.com/tutorials/analog-vs-digital)
 
 ### References
 * [Making Things Talk](http://www.makingthingstalk.com)
@@ -260,12 +260,12 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 	* TBA
 
 ### Notes, Key Terms, Examples
-	* Autonomy
-	* Algorithm
-	* Machine Learning
-	* Current
-	* Voltage
-	* Stepper motor
+* Autonomy
+* Algorithm
+* Machine Learning
+* Current
+* Voltage
+* Stepper motor
 
 ### References
 * [Autonomous Arduino Car](http://www.instructables.com/id/Autonomous-Arduino-Car/)
@@ -284,11 +284,11 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 	Presentations Group A
 
 ### Notes, Key Terms, Examples
-	* e-textiles
-	* wearables
-	* start-up
-	* crowdfunding
-	* crowdsourcing
+* e-textiles
+* wearables
+* start-up
+* crowdfunding
+* crowdsourcing
 
 ### References
 * [Fitbit]
@@ -306,15 +306,15 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 	Presentations Group B
 
 ### Notes, Key Terms, Examples
-	* Networks
-	* Networked Objects
-	* Connected
-	* Cloud
-	* AWS
-	* WiFi
-	* BluTooth
-	* Radio
-	* IoT
+* Networks
+* Networked Objects
+* Connected
+* Cloud
+* AWS
+* WiFi
+* BluTooth
+* Radio
+* IoT
 
 ### References
 * [AWS](http://aws.amazon.com)
@@ -334,10 +334,10 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 	Presentations Group C
 
 ### Notes, Key Terms, Examples
-	* JavaScript
-	* Server-side and client-side
-	* API
-	* Web Sockets
+* JavaScript
+* Server-side and client-side
+* API
+* Web Sockets
 
 ### References
 * [API](http://en.wikipedia.org/wiki/Application_programming_interface)
@@ -352,9 +352,9 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 	Presentations Group D
 
 ### Notes, Key Terms, Examples
-	* Big Data
-	* Data Visualization
-	* J
+* Big Data
+* Data Visualization
+* J
 
 ### References
 * [Big Data](http://en.wikipedia.org/wiki/Big_data)
