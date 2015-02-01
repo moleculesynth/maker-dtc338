@@ -90,9 +90,9 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 2: January 23 -- Workshop#2: Arduino + GitHub = Hello World!
 
 ### Physical Electronics
-* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
-* What is ‘Design Thinking’? 
-* What's beyond QWERTY and a 'mouse'? "Interactive"?
+	* Is our understanding of ‘Making’ new, or is it the same old making we've had? 
+	* What is ‘Design Thinking’? 
+	* What's beyond QWERTY and a 'mouse'? "Interactive"?
 
 ### Notes, Key Terms, Examples
 * Physical Computing 	
@@ -127,12 +127,12 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 3: January 30 –- Workshop#3: Into the Void: Void the Warranty! 
 
 ### [Makers' Bill of Rights](http://cdn.makezine.com/make/MAKERS_RIGHTS.pdf)
-
-What is Circuit Bending?  "Circuit bending is one of the most interesting forms of tinkering. It’s the
-creative short-circuiting of low-voltage, battery-powered electronic audio
-devices such as guitar effect pedals, children’s toys, and small synthesizers
-to create new musical instruments and sound generators. The heart
-of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Arduino (2011.10)
+### What is Circuit Bending?  
+	"Circuit bending is one of the most interesting forms of tinkering. It’s the
+	creative short-circuiting of low-voltage, battery-powered electronic audio
+	devices such as guitar effect pedals, children’s toys, and small synthesizers
+	to create new musical instruments and sound generators. The heart
+	of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Arduino (2011.10)
 
 	Presentations Group A
 	* Alan McGinnis
@@ -183,7 +183,7 @@ Upload photos and details in a short step-by-step write-up of how you did a circ
 
 ## Week 4: February 6 – Workshop#4: Back to Arduino & Programming Response, Resistance is Futile!
 
-Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects.  This is a step into the world of designing physical interfaces, embedded programs and "interactivity."
+Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects -- get ready, we're launching into the world of designing physical interfaces, embedded programs and "interactivity" !
 
 	Presentations Group B
 	* TBA
