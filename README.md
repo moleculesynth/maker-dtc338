@@ -152,31 +152,31 @@ of this process is the 'art of chance.'" -Massimo Banzi, Getting Started with Ar
 
 ### References
 
-	Synths
-	* [Moog Werkstatt Kit](http://www.moogmusic.com/products/werkstatt/werkstatt-01-moogfest-2014-kit)
-	* [Korg Monotron](http://www.korg.com/us/products/dj/monotron/)
-	* [Lunetta Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit#)
-	* [Serge Modular, unofficial page](http://www.serge.synth.net)
-	* [Caspar Electronics](http://casperelectronics.com)
-	* [GetLoFi](http://getlofi.com)
+Synths
+* [Moog Werkstatt Kit](http://www.moogmusic.com/products/werkstatt/werkstatt-01-moogfest-2014-kit)
+* [Korg Monotron](http://www.korg.com/us/products/dj/monotron/)
+* [Lunetta Synths](https://docs.google.com/document/d/1V9qerry_PsXTZqt_UDx7C-wcuMe_6_gyy6M_MyAgQoA/edit#)
+* [Serge Modular, unofficial page](http://www.serge.synth.net)
+* [Caspar Electronics](http://casperelectronics.com)
+* [GetLoFi](http://getlofi.com)
 
-	Cameras
-	* [Lomography Konstructor](http://shop.lomography.com/us/konstruktor)
-	* [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki)
-	* [Olympus Open Platform](http://opc.olympus-imaging.com)
-	* [OTTO: Hackable R-Pi Camera](http://www.raspberrypi.org/otto-a-hackable-camera-powered-by-raspberry-pi/)
+Cameras
+* [Lomography Konstructor](http://shop.lomography.com/us/konstruktor)
+* [Magic Lantern Firmware](http://magiclantern.wikia.com/wiki/Magic_Lantern_Firmware_Wiki)
+* [Olympus Open Platform](http://opc.olympus-imaging.com)
+* [OTTO: Hackable R-Pi Camera](http://www.raspberrypi.org/otto-a-hackable-camera-powered-by-raspberry-pi/)
 
-	Robots
-	* [Hacking LEGO Mindstorms](http://makezine.com/2013/08/02/lego-mindstorms-ev3-source-code-available/)
-	* [10 Years of Roomba Hacks](http://www.tested.com/tech/robots/453965-magic-marker-art-kinect-10-years-roomba-hacks/)
-	* Furby Hacks & [Reverse Engineering Furby](http://hackaday.com/2013/01/28/reverse-engineering-the-furby/)
+Robots
+* [Hacking LEGO Mindstorms](http://makezine.com/2013/08/02/lego-mindstorms-ev3-source-code-available/)
+* [10 Years of Roomba Hacks](http://www.tested.com/tech/robots/453965-magic-marker-art-kinect-10-years-roomba-hacks/)
+* Furby Hacks & [Reverse Engineering Furby](http://hackaday.com/2013/01/28/reverse-engineering-the-furby/)
 
-	DIY Electronics Events
-	* [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
-	* [BPOW Recap](https://vimeo.com/72608861)
-	* Maker Faires and Mini-Maker Faires
-	* DorkBot Meetings
-	* Meetups like [PDX Electro Hax](http://www.meetup.com/PDXElectroHax/) - see [Meetup.com](http://www.meetup.com) for more, or Start Your Own!
+DIY Electronics Events
+* [Battery Powered Orchestra Workshop](https://www.kickstarter.com/projects/travisfeldman/bpow-battery-powered-orchestra-workshop)
+* [BPOW Recap](https://vimeo.com/72608861)
+* Maker Faires and Mini-Maker Faires
+* DorkBot Meetings
+* Meetups like [PDX Electro Hax](http://www.meetup.com/PDXElectroHax/) - see [Meetup.com](http://www.meetup.com) for more, or Start Your Own!
 
 ### Homework
 Upload photos and details in a short step-by-step write-up of how you did a circuit bend or break out: keep in mind DETAILS matter and will be of significant interest to everyone, so please show-and-tell your circuit bend in all of its developmental stages.  Also, you might want to search around for other circuit bends -- you might find that someone else has done some incredible things with the toy or instrument that you are working on, and if nothing else, seeing more circuit bends will give you new things to consider while creating your own.
