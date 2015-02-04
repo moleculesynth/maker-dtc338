@@ -181,7 +181,7 @@ Upload photos and details in a short step-by-step write-up of how you did a circ
 
 ## Week 4: February 6 – Workshop#4: Back to Arduino & Programming Response, Resistance is Futile!
 
-Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects -- get ready, we're launching into the world of designing physical interfaces, embedded programs and "interactivity" !
+Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects -- get ready, we're launching into the world of designing physical interfaces, embedded programs and interactivity!
 
 ### Presentations Group B
 	* TBA
@@ -193,13 +193,14 @@ Our second Arduino workshop will be a challenge to find interesting ways of inte
 
 ### Notes, Key Terms, Examples
 * [Processing](http://processing.org)
+* [Processing IDE](https://processing.org/reference/environment/)
 * [Arduino IDE](http://arduino.cc/en/main/software)
 * [Scratch](http://scratch.mit.edu)
 * [Arduino Cheat Sheet](https://cdn.sparkfun.com/assets/f/4/9/2/2/Arduino_Cheat_Sheet-11-12-13.pdf)
 * [AdaFruit Learn Arduino](https://learn.adafruit.com/category/learn-arduino)
 * [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
 * [Arduino Manuals and Curriculum](http://playground.arduino.cc/Main/ManualsAndCurriculum)
-* Sketch
+* [Sketch](https://processing.org/reference/environment/#Sketchbook)
 * setup
 * loop
 * GPIO
@@ -228,6 +229,7 @@ N.B. In addition to our regular activities in the next two classes, we will make
 	* TBA
 
 ### Notes, Key Terms, Examples
+* [Fritzing](http://fritzing.org/home/)
 * Shields and specialized hardware for Arduino - see [Shields](http://shieldlist.org) for a full list
 * [Multitasking the Arduino](https://learn.adafruit.com/multi-tasking-the-arduino-part-1)
 * [Interfacing with Hardware](http://playground.arduino.cc/Main/InterfacingWithHardware#Communication)
