@@ -184,12 +184,12 @@ Upload photos and details in a short step-by-step write-up of how you did a circ
 Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects -- get ready, we're launching into the world of designing physical interfaces, embedded programs and interactivity!
 
 ### Presentations Group B
-	* TBA
-	* TBA
-	* TBA
-	* TBA
-	* TBA
-	* TBA
+	* Harley
+	* Frankie
+	* Taran
+	* Sean
+	* Amanda
+	* Yuriy
 
 ### Notes, Key Terms, Examples
 * [Processing](http://processing.org)
