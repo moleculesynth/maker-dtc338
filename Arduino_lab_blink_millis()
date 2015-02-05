@@ -1,0 +1,40 @@
+//blink led without delay() -- use millis()
+//this will tell your Arduino to keep count of how much time is passing
+//each time it goes through its loop() function
+
+
+int led =  7;   // this time let's use pin 7, rather than 13
+
+int ledState = LOW;    //current state of the LED
+
+unsigned long timeOfLastLedEvent = 0;       //the last time the LED was updated
+
+int intervalON = 1000;                //how long we want the LED to stay on
+                                      //try different intervals here
+int intervalOFF = 500;                //how long we want the LED to stay off
+
+void setup() {
+  pinMode(led, OUTPUT);  
+  digitalWrite(led, ledState);  
+}
+
+void loop() {
+
+  unsigned long currentMillis = millis();
+  
+  if (ledState == LOW){                                             //if the LED is already off
+    if (currentMillis - timeOfLastLedEvent > intervalOFF){          //and enough time has passed
+      digitalWrite(led, HIGH);                                     //turn it on
+      ledState = HIGH;                                            //store its current state
+      timeOfLastLedEvent = currentMillis;                        //update the time of this new event
+    }
+    
+  } else {                        //if the LED is already on
+  
+    if (currentMillis - timeOfLastLedEvent > intervalON){
+      digitalWrite(led, LOW);
+      ledState = LOW;
+      timeOfLastLedEvent = currentMillis;
+    }
+  }
+}
