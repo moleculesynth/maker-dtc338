@@ -1,0 +1,38 @@
+/*
+  This is the example sketch that we used in our first Workshop, 
+  was a lesson in using the delay() function.
+  
+  Blink
+  Turns on an LED on for one second (1000 milliseconds), then off for one second, repeatedly.
+ 
+  This example code is in the public domain.
+ */
+ 
+// in the first part of our sketch we identify, intialize, and name
+// the variables we will use.
+// Let's use pin 13, since it has an LED connected on most Arduino boards.
+// So, we could just use the number 13 in our simple sketch (we only need it in one function, digitalWrite()), 
+// but in other cases, we might be calling and reading that pin in several parts of the program,
+// so we create a name for it that we can use without confusing the pin for an integer. 
+// the pin's name could be anything, but best practice for this is to use an identifying name that is 
+// easy to understand and easy to remember:
+
+int led = 13;
+
+// the setup routine runs once when you press reset
+
+
+void setup() {                
+  // initialize the digital pin as an output.
+  pinMode(led, OUTPUT);     
+}
+
+// the loop routine runs over and over again -- try changing the delay() functions and see what happens
+// notice that we are using digitalWrite here.  we will try using digitalRead in another sketch.
+// 
+void loop() {
+  digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);               // wait for a second
+  digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);               // wait for a second
+}
