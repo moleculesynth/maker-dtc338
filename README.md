@@ -224,9 +224,6 @@ N.B. In addition to our regular activities in the next two classes, we will make
 	* Suhaily Erkkila
 	* Amanda Hobbs
 	* Jewell Harrington III
-	* TBA
-	* TBA
-	* TBA
 
 ### Notes, Key Terms, Examples
 * [Fritzing](http://fritzing.org/home/)
@@ -245,19 +242,14 @@ N.B. In addition to our regular activities in the next two classes, we will make
 * [Making Things See](http://makingthingssee.com)
 
 ### Homework
-* Email to the Class Google Group a full project proposal for your Prototype - you might include any sketches, diagrams, schematics, code / sample code, videos or photos that have helped your thinking develop on this.  This is an opportunity to collect your ideas on this, brainstorm a bit, state the "problem" your project is addressing or solving, and start thinking about possible refinements or iterative variants you'll be exploring.  Include the following in the subject line: "Prototype#1 Proposal: [Title and your name]"  -- Due before class on February 20.
+* Prototype#1 Project Proposal.  STEP ONE: Meet and discuss your project plans with Josie;  take your time considering the problems or issues you expect your project may involve.  STEP TWO: Email to the Class Google Group a full project proposal for your Prototype, with a title, description of function or operations, bill of materials, and problems or issues you expect to encounter.  Also, you might include any sketches, diagrams, schematics, code / sample code, videos or photos that have helped your thinking develop on this.  This proposal is meant to be an opportunity to collect your ideas on the project, so please brainstorm a bit, work to find an original way of stating the "problem" your project is addressing or solving, and start thinking about possible refinements or iterative variants you'll be exploring.  Include the following in the email subject line: "Prototype#1 Proposal: [Title and your name]"  -- Due before class on February 20.
+* WATCH [Mechanical Marvels: Clockwork Dreams](https://www.youtube.com/watch?v=bLb54FCMt9o) - we will discuss this in class on Feb 20.
 
 ## Week 6: February 20 – Workshop#5B: Programming Response, ‘I, Robot’!
 
 Today's workshop will focus on creating an autonomous device. Let's see if we can build something with our Arduinos that operates on its own.  Is it "deciding" to do things? Is it "behaving" in its own way?  Do our independently operating Arduinos drift into dreams of electric sheep?  
 
-### Presentations Group D
-	* TBA
-	* TBA
-	* TBA
-	* TBA
-	* TBA
-	* TBA
+### Presentations Group D 
 
 ### Notes, Key Terms, Examples
 * Autonomy
@@ -268,16 +260,19 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 * Stepper motor
 
 ### References
+* 
 * [Autonomous Arduino Car](http://www.instructables.com/id/Autonomous-Arduino-Car/)
 * [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)
 
 ### Homework
-* Finish your Prototype#1
+* Finish Prototype#1
 
 ## Week 7: February 27 – Show-and-Tell, Demo Day!
 
-* Prototype#1 Due
-* Group Reviews & Feedback on Prototypes
+* Prototype#1 Due with documentation posted to GitHub and/or class Google Group.  
+* In-class demonstrations, group review and feedback
+
+### Homework: Choose three Prototypes you encountered, take a closer look at them, and then email to me and the Maker of the chosen project your Reviews & Feedback on documentation and project as a whole. 
 
 ## Week 8: March 6 – Workshop#6: It’s sew easy!
 
