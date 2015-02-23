@@ -249,8 +249,8 @@ N.B. In addition to our regular activities in the next two classes, we will make
 Today's workshop will focus on creating an autonomous device. Let's see if we can build something with our Arduinos that operates on its own.  Is it "deciding" to do things? Is it "behaving" in its own way?  Do our independently operating Arduinos drift into dreams of electric sheep?  
 
 ### Presentations Group D 
-	*Yuriy - 3D printing
-	*Cole - augmented reality for firearms (precision guided firearms)
+	* Yuriy - 3D printing
+	* Cole - augmented reality for firearms (precision guided firearms)
 
 ### Notes, Key Terms, Examples
 * Autonomy
