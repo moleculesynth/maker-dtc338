@@ -13,8 +13,8 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 [Class Google Group](https://groups.google.com/d/forum/maker_culture_dtc338)
 
 ## Required Materials 
+* Arduino or RedBoard
 * Regular and reliable access to the internet, email, and a computer for completing assignments.
-* Flash drive (at least 1GB).
 * Notebook or journal for in-class sketches, drawing, and response; also, pen or pencil. 
 
 ## Assignments 
@@ -127,12 +127,12 @@ This course is an undergraduate-level hands-on introduction to Maker Culture. It
 ## Week 3: January 30 –- Workshop#3: Into the Void, Void the Warranty! 
 
 ### Presentations Group A
-	* Alan McGinnis
-	* Cody Moncur
-	* Keely Bitton
-	* Stephen Schmeling
-	* Justin Williams
-	* Rosemary Nielson
+	* Alan McGinnis - echolocation
+	* Cody Moncur - Brew PI, ph sensor kit
+	* Keely Bitton - nightlight project
+	* Stephen Schmeling - 3D printing ecosystem
+	* Justin Williams - using brushless DC motors for generating electricity
+	* Rosemary Nielson - 3D printing prosthetics
 
 ### Notes, Key Terms, Examples
 * What is Circuit Bending? 
@@ -184,12 +184,10 @@ Upload photos and details in a short step-by-step write-up of how you did a circ
 Our second Arduino workshop will be a challenge to find interesting ways of integrating buttons, switches, potentiometers, and photo sensors into our projects -- get ready, we're launching into the world of designing physical interfaces, embedded programs and interactivity!
 
 ### Presentations Group B
-	* Harley
-	* Frankie
-	* Taran
-	* Sean
-	* Amanda
-	* Yuriy
+	* Frankie - AT-Tiny for line-tracking vibrobots
+	* Taran - exploring LEDs
+	* Sean - what making means to me (cosplay, DIY music, movie production) 
+	* Nicolaos - recent trends in crowdfunding
 
 ### Notes, Key Terms, Examples
 * [Processing](http://processing.org)
@@ -221,9 +219,9 @@ Today we come back to Arduinos, building upon what we have already done.  We hav
 N.B. In addition to our regular activities in the next two classes, we will make time to work on or address questions concering your first Prototype assignment, which is due in class on February 27.
 
 ### Presentations Group C
-	* Suhaily Erkkila
-	* Amanda Hobbs
-	* Jewell Harrington III
+	* Amanda - materials for construction (Worbla)
+	* Suhaily - Tetris shirt and other wearable projects
+	* Jewell - new uses for 3D printing in the field of medicine (skull)
 
 ### Notes, Key Terms, Examples
 * [Fritzing](http://fritzing.org/home/)
@@ -243,6 +241,7 @@ N.B. In addition to our regular activities in the next two classes, we will make
 
 ### Homework
 * Prototype#1 Project Proposal.  STEP ONE: Meet and discuss your project plans with Josie;  take your time considering the problems or issues you expect your project may involve.  STEP TWO: Email to the Class Google Group a full project proposal for your Prototype, with a title, description of function or operations, bill of materials, and problems or issues you expect to encounter.  Also, you might include any sketches, diagrams, schematics, code / sample code, videos or photos that have helped your thinking develop on this.  This proposal is meant to be an opportunity to collect your ideas on the project, so please brainstorm a bit, work to find an original way of stating the "problem" your project is addressing or solving, and start thinking about possible refinements or iterative variants you'll be exploring.  Include the following in the email subject line: "Prototype#1 Proposal: [Title and your name]"  -- Due before class on February 20.
+* Also, schedule a meeting with Josie to discuss the proposal.
 * WATCH [Mechanical Marvels: Clockwork Dreams](https://www.youtube.com/watch?v=bLb54FCMt9o) - we will discuss this in class on Feb 20.
 
 ## Week 6: February 20 – Workshop#5B: Programming Response, ‘I, Robot’!
@@ -250,6 +249,8 @@ N.B. In addition to our regular activities in the next two classes, we will make
 Today's workshop will focus on creating an autonomous device. Let's see if we can build something with our Arduinos that operates on its own.  Is it "deciding" to do things? Is it "behaving" in its own way?  Do our independently operating Arduinos drift into dreams of electric sheep?  
 
 ### Presentations Group D 
+	*Yuriy - 3D printing
+	*Cole - augmented reality for firearms (precision guided firearms)
 
 ### Notes, Key Terms, Examples
 * Autonomy
@@ -267,12 +268,20 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 ### Homework
 * Finish Prototype#1
 
+### Extras
+* [Autoglockenspiel](http://www.instructables.com/id/Autoglockenspiel/)
+* [Lego Loom](http://makezine.com/2015/02/21/fantastically-functional-lego-mechanical-loom/)
+* http://www.salon.com/2013/05/12/jaron_lanier_the_internet_destroyed_the_middle_class/
+* http://www.nytimes.com/2014/03/16/opinion/sunday/the-rise-of-anti-capitalism.html
+* http://civicpaths.uscannenberg.org/the-dark-side-of-diy-makerspaces-and-the-long-weird-history-of-diy-hobbyists-military-funding/
+* http://www.nytimes.com/2012/10/06/us/worries-over-defense-dept-money-for-hackerspaces.html
+
 ## Week 7: February 27 – Show-and-Tell, Demo Day!
 
 * Prototype#1 Due with documentation posted to GitHub and/or class Google Group.  
 * In-class demonstrations, group review and feedback
 
-### Homework: Choose three Prototypes you encountered, take a closer look at them, and then email to me and the Maker of the chosen project your Reviews & Feedback on documentation and project as a whole. 
+### Homework: Choose three Prototypes presented in class, take a closer look at them, and then email to me and the Maker of the chosen project your Review and/or Feedback on documentation and project as a whole. What does the Review look like?  About two typed pages or five paragraphs in which you select details of a project that you can analyze closely, and discuss those details, evaluating the strengths and weakness of the design, build, and documentation.  The point of the assignment is to focus attention on a project that is not your own, so that you can see what works best and why it works best, when it comes to making and sharing projects. In this class, we are looking to improve our "Maker" techniques, in all facets of designing, iterating, documenting, and storytelling.  A helpful review might discuss or evaluate the strengths and weaknesses of (1) electrical design, (2) code or software, (3) choice of microcontroller or microcomputer, (4) materials and substrate, (5) aesthetics, (6) functionality, (7) social meaning, (8) future possibilities and further iterations.  
 
 ## Week 8: March 6 – Workshop#6: It’s sew easy!
 
