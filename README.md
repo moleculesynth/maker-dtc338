@@ -283,31 +283,71 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 
 ### Homework: Choose three Prototypes presented in class, take a closer look at them, and then email to me and the Maker of the chosen project your Review and/or Feedback on documentation and project as a whole. What does the Review look like?  About two typed pages or five paragraphs in which you select details of a project that you can analyze closely, and discuss those details, evaluating the strengths and weakness of the design, build, and documentation.  The point of the assignment is to focus attention on a project that is not your own, so that you can see what works best and why it works best, when it comes to making and sharing projects. In this class, we are looking to improve our "Maker" techniques, in all facets of designing, iterating, documenting, and storytelling.  A helpful review might discuss or evaluate the strengths and weaknesses of (1) electrical design, (2) code or software, (3) choice of microcontroller or microcomputer, (4) materials and substrate, (5) aesthetics, (6) functionality, (7) social meaning, (8) future possibilities and further iterations.  
 
-## Week 8: March 6 – Workshop#6: It’s sew easy!
+## Week 8: March 6 – Workshop#6: Photosensitive Devices and Atari Punk Enlightenment 
+
+Today we learn to use the serial monitor in Arduino to measure and adjust the responsiveness of analog inputs.  We will focus on reading and making use of data from photocells.  We will also use our breadboards to build a sound generator from an IC 556 Timer.  This is a classic DIY electronics project from which many circuit heads and synth builders have made creative variants.
 
 	Presentations Group A
 
 ### Notes, Key Terms, Examples
-* e-textiles
-* wearables
-* start-up
-* crowdfunding
-* crowdsourcing
+* [Atari Punk Console](http://en.wikipedia.org/wiki/Atari_Punk_Console)
+* [integrated circuit](http://en.wikipedia.org/wiki/Integrated_circuit)
+* [logic gate](http://en.wikipedia.org/wiki/Logic_gate)
+* [inverter](http://en.wikipedia.org/wiki/Inverter_(logic_gate))
+* photocell, photosensor, photoresistor 
+* command line prompt
+* serial data 
+* serial monitor (in Arduino IDE)
 
 ### References
-* [Fitbit]
-* [Pebble]
-* [Lilypad]
-* [Flora]
-* [Kickstarter]
-* [Indiegogo]
+* [What is a Photocell Resistor?](http://en.wikipedia.org/wiki/Photoresistor)
+* [How Can I Use the Photocell in Projects?](https://learn.adafruit.com/photocells)
 
 ### Homework
-*
+* Create your own synth from the 556 IC and/or your Arduino.  Post the code, comments, and photos of your project.  
 
-## Week 9: March 13 – Workshop#7: OMG!! The Internet is…Everything!
+## Week 9: March 13 – Workshop#7:  Electronic Musical Instruments, Part II -- Capacitive Touch 
+
+Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106.  We will play with the IC to see what it's capable of in terms of sound gerneation, and then build a prototype instrument or sound generator using easy-to-manipulate substrates like thin acrilic, shrink plastic, foam board, card board, and so on.  We will also incorporate our understanding of Arduinos to try out different ways of coding responsiveness using the GPIO pins. In particular, we will also explore a sketch for a simple synth using capacitive touch as a trigger. 
 
 	Presentations Group B
+
+### Notes, Key Terms, Examples
+
+* [40106 Inverting Schmitt Trigger](http://en.wikipedia.org/wiki/Schmitt_trigger)
+* capacitor
+* resistor
+* transistor
+* momentary switch
+* capacitive touch 
+
+### Homework
+* Begin work on Prototype#2, Due in class on April 13.
+* Collect two or more stuffed animals that you can take apart and repurpose in our next Workshop after Spring Break. 
+
+# Spring Break - No Classes March 20!
+
+## Week 10: March 27 – Workshop#8A: Franken Animals! 
+
+Today we enter the fuzzy, plushy, wonderful world of making our own interactive stuffed animals.  Bring at least two stuffed critters that you would like to combine into your own Arduino-enhanced Frankenanimal creation.  It would be great if we could share some of the parts and pieces among projects -- be prepared to get inventive!
+
+	Presentations Group C
+
+### Notes, Key Terms, Examples
+* e-textiles
+* wearables
+
+### References
+
+
+### Homework
+
+
+## Week 11: April 3 – Workshop#8B: It's Sew Easy
+
+Today we incorporate the internet and data streams into our projects.  We will start with an example in Processing, visualizing a data set and data stream.  Then we will conclude with a workshop to create a wearble electronics item that responds to internet data.  
+
+	Presentations Group D
 
 ### Notes, Key Terms, Examples
 * Networks
@@ -319,54 +359,23 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 * BluTooth
 * Radio
 * IoT
-
-### References
-* [AWS](http://aws.amazon.com)
-* [Google Glass]
-* [Google Glass sales halted (1/15/15)](http://www.bbc.com/news/technology-30831128)
-* Nest
-* Yun
-* Leonardo
-
-### Homework
-*
-
-# Spring Break - No Classes March 20!
-
-## Week 10: March 27 – Workshop#8A: Going Global in a few lines of code
-
-	Presentations Group C
-
-### Notes, Key Terms, Examples
-* JavaScript
-* Server-side and client-side
-* API
-* Web Sockets
-
-### References
-* [API](http://en.wikipedia.org/wiki/Application_programming_interface)
-* [IFTTT](http://ifttt.com)
-* 
-
-### Homework
-*
-
-## Week 11: April 3 – Workshop#8B: Global Village 
-
-	Presentations Group D
-
-### Notes, Key Terms, Examples
 * Big Data
 * Data Visualization
 * J
 
 ### References
+* [Lilypad]
+* [Flora]
+* [Kickstarter]
+* [Fitbit]
+* [Pebble]
+* [Indiegogo]
 * [Big Data](http://en.wikipedia.org/wiki/Big_data)
 * [Mike Bostock](http://bost.ocks.org/mike/)
 * [NYTimes 2013, Data Visualization](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/#dataviz)
 
 ### Homework
-*
+* Work on your Prototype#2;  bring to class the title, general idea of its function, a BOM, and a list of potential problems you are preparing for.
 
 ## Week 12: April 10 — Free Buildy Day, Open Workshop
 
