@@ -281,7 +281,8 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 * Prototype#1 Due with documentation posted to GitHub and/or class Google Group.  
 * In-class demonstrations, group review and feedback
 
-### Homework: Choose three Prototypes presented in class, take a closer look at them, and then email to me and the Maker of the chosen project your Review and/or Feedback on documentation and project as a whole. What does the Review look like?  About two typed pages or five paragraphs in which you select details of a project that you can analyze closely, and discuss those details, evaluating the strengths and weakness of the design, build, and documentation.  The point of the assignment is to focus attention on a project that is not your own, so that you can see what works best and why it works best, when it comes to making and sharing projects. In this class, we are looking to improve our "Maker" techniques, in all facets of designing, iterating, documenting, and storytelling.  A helpful review might discuss or evaluate the strengths and weaknesses of (1) electrical design, (2) code or software, (3) choice of microcontroller or microcomputer, (4) materials and substrate, (5) aesthetics, (6) functionality, (7) social meaning, (8) future possibilities and further iterations.  
+### Homework
+* Finish and post your Prototype#1 documentation.  Bring in a fully functioning version if you have not already. 
 
 ## Week 8: March 6 – Workshop#6: Photosensitive Devices and Atari Punk Enlightenment 
 
