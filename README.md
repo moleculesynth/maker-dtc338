@@ -288,8 +288,6 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 
 Today we learn to use the serial monitor in Arduino to measure and adjust the responsiveness of analog inputs.  We will focus on reading and making use of data from photocells.  We will also use our breadboards to build a sound generator from an IC 556 Timer.  This is a classic DIY electronics project from which many circuit heads and synth builders have made creative variants.
 
-	Presentations Group A
-
 ### Notes, Key Terms, Examples
 * [Atari Punk Console](http://en.wikipedia.org/wiki/Atari_Punk_Console)
 * [integrated circuit](http://en.wikipedia.org/wiki/Integrated_circuit)
@@ -311,8 +309,6 @@ Today we learn to use the serial monitor in Arduino to measure and adjust the re
 
 Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106.  We will play with the IC to see what it's capable of in terms of sound gerneation, and then build a prototype instrument or sound generator using easy-to-manipulate substrates like thin acrilic, shrink plastic, foam board, card board, and so on.  We will also incorporate our understanding of Arduinos to try out different ways of coding responsiveness using the GPIO pins. In particular, we will also explore a sketch for a simple synth using capacitive touch as a trigger. 
 
-	Presentations Group B
-
 ### Notes, Key Terms, Examples
 
 * [40106 Inverting Schmitt Trigger](http://en.wikipedia.org/wiki/Schmitt_trigger)
@@ -328,11 +324,9 @@ Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106
 
 # Spring Break - No Classes March 20!
 
-## Week 10: March 27 – Workshop#8A: Franken Animals! 
+## Week 10: March 27 – Workshop#8: Franken Animals! 
 
 Today we enter the fuzzy, plushy, wonderful world of making our own interactive stuffed animals.  Bring at least two stuffed critters that you would like to combine into your own Arduino-enhanced Frankenanimal creation.  It would be great if we could share some of the parts and pieces among projects -- be prepared to get inventive!
-
-	Presentations Group C
 
 ### Notes, Key Terms, Examples
 * e-textiles
@@ -344,11 +338,11 @@ Today we enter the fuzzy, plushy, wonderful world of making our own interactive 
 ### Homework
 
 
-## Week 11: April 3 – Workshop#8B: It's Sew Easy
+## Week 11: April 3 – Workshop#9: It's Sew Easy
 
 Today we incorporate the internet and data streams into our projects.  We will start with an example in Processing, visualizing a data set and data stream.  Then we will conclude with a workshop to create a wearble electronics item that responds to internet data.  
 
-	Presentations Group D
+	Class Presentations - Part One
 
 ### Notes, Key Terms, Examples
 * Networks
@@ -380,6 +374,8 @@ Today we incorporate the internet and data streams into our projects.  We will s
 
 ## Week 12: April 10 — Free Buildy Day, Open Workshop
 
+	Class Presentations - Part Two 
+
 ### Maker Projects Review 
 * Q&A and Open Discussion
 
@@ -387,12 +383,12 @@ Today we incorporate the internet and data streams into our projects.  We will s
 * Proposal for Final Project Due (Sketch, model, BOM and description)
 * watch [Fibonacci Zoetrope Sculptures](https://vimeo.com/116582567)
 
-## Week 13: April 17 – Show and Tell, Prototype#2 Due: Wearables Demo Day! 
+## Week 13: April 17 – Prototype#2 Due: Demo Day! 
 
 ### Group Reviews & Feedback on Prototypes
 
 ### Homework
-* Draft of slide deck images and description Due (Iterations, BOM Assessment, DFM notes)
+* Draft of slide deck images and description of Final Project (include Iterations, BOM Assessment, DFM notes) due next class.
 
 ## Week 14: April 24 – Workshop#9: Design for Manufacturing: Putting it all together
 
@@ -400,18 +396,11 @@ Today we incorporate the internet and data streams into our projects.  We will s
 * Digital Fabrication
 * Access to Manufacturing
 
-### References
-* 
-
 ### Homework
-*
+* Work on Final Project.
 
-## Week 15: May 1 – Final Project Workshop 
+## Week 15: May 1 – Final Project Workshop, building and code checking, final adjustments. 
 
-### TBA
-*
-*
-
-## Week 16: Finals Day: Exact Day/Time TBA 
-N.B.: Your Final Project Must Be Uploaded and Viewable Online Before Scheduled Final Exam
+## Week 16: Finals Day:  May 8, 2:00-4:00PM, DEMO DAY in our usual classroom 
+N.B.: Your Final Project Must Be Uploaded and Viewable Online Before Scheduled Final Exam. 
 
