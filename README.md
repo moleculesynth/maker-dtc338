@@ -402,5 +402,5 @@ Today we incorporate the internet and data streams into our projects.  We will s
 ## Week 15: May 1 – Final Project Workshop, building and code checking, final adjustments. 
 
 ## Week 16: Finals Day:  May 8, 2:00-4:00PM, DEMO DAY in our usual classroom 
-N.B.: Your Final Project Must Be Uploaded and Viewable Online Before Scheduled Final Exam. 
+N.B.: Your Final Project Must Be Uploaded and Viewable Online (Medium.com, Instructables, GitHub, our class Google Group, etc.) BEFORE Our Scheduled Final Exam Time. 
 
