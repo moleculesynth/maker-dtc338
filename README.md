@@ -307,7 +307,7 @@ Today we learn to use the serial monitor in Arduino to measure and adjust the re
 
 ## Week 9: March 13 – Workshop#7:  Electronic Musical Instruments, Part II -- Capacitive Touch 
 
-Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106.  We will play with the IC to see what it's capable of in terms of sound gerneation, and then build a prototype instrument or sound generator using easy-to-manipulate substrates like thin acrilic, shrink plastic, foam board, card board, and so on.  We will also incorporate our understanding of Arduinos to try out different ways of coding responsiveness using the GPIO pins. In particular, we will also explore a sketch for a simple synth using capacitive touch as a trigger. 
+Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106.  We will play with the IC to see what it's capable of in terms of sound gerneation, and then build a prototype instrument or sound generator using easy-to-manipulate substrates like thin acrylic, shrink plastic, foam board, card board, or whatever you'd like to bring.  We will also incorporate our understanding and use of Arduinos in order try different ways of coding responsiveness using the GPIO pins. To begin our Arduino investigations, we will also explore a sketch for a simple synth using capacitive touch as a trigger. 
 
 ### Notes, Key Terms, Examples
 
