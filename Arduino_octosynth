@@ -1,19 +1,20 @@
 // We will use this sketch in our Arduino Workshop for exploring capacitive touch
-// We will adjust the waveforms (there are three to choose from)
+// We will adjust the waveforms (there are four to choose from: sine, square, triangle, sawtooth)
 // and experiment with the responsiveness of capacitive touch
+// for triggering notes and using the built-in pitch bend (see line 389ff.)
 //
-// See the getNoteKeys method described at:
-// http://www.arduino.cc/playground/Code/CapacitiveSensor
+// See the getNoteKeys method described at http://www.arduino.cc/playground/Code/CapacitiveSensor
 //
-// you'll notice some things have been commented out... 
-// we will be reading those carefully and experimenting with bringing them back in to our code
+// Also, you'll notice some things have been commented out... 
+// we will be reading those carefully and experimenting with bringing them back in to our code.
 //
 //
 // This synth is Joe Marshall's OCTOSynth-0.2 2011
 // See http://www.instructables.com/id/The-Arduino-OctoSynth/
-//////////////////////////////////////// Joe writes:
+//////////////////////////////////////// Joe writes:////////////////////////////////////////
 // Resonant filter based on Meeblip (meeblip.noisepages.com)
-// Interrupt setup code based on code by Martin Nawrath (http://interface.khm.de/index.php/lab/experiments/arduino-dds-sinewave-generator/)
+// Interrupt setup code based on code by Martin Nawrath 
+// (http://interface.khm.de/index.php/lab/experiments/arduino-dds-sinewave-generator/)
 // oscillators and inline assembler optimisation by me.
 // key input is from 8 capacitive inputs on digital input 6,7, and analog inputs 0-6
 // each input is a single wire, going to something metal to touch
@@ -28,7 +29,7 @@
 // a matter of replacing the low byte of the address). 
 // Having said that, other arduino stuff probably gets loaded in here first
 // because the aligned attribute seems to add a couple of hundred bytes to the code
-/////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////
 
 #define TEST_PATTERN_INTRO
 
