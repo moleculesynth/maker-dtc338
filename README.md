@@ -372,16 +372,16 @@ Today we move our FrankenAnimal projects into the world of 3D models and 3D prin
 * [Cura]
 * [Printrbot]
 
+### Homework
+*Submit your STL and G-Code files to the classlist.
 
-## Week 12: April 10 — 3D Printing Demonstration + Free Buildy Day, Open Workshop for Final Projects
+## Week 12: April 10 — 3D Printing + Free Buildy Day, Open Workshop for Final Projects
 
-	Class Presentations - Part Two 
-
-### Maker Projects Review 
-* Q&A and Open Discussion
+### 3D Printing Lab
+* Work in four groups to design and complete a unique 3D printed figure.
 
 ### Homework
-* Proposal for Final Project Due (Sketch, model, BOM and description)
+* For next class: email to the classlist a Google Slides proposal for your Final Project (mock-up images or photos, BOM, detailed description) 
 * watch [Fibonacci Zoetrope Sculptures](https://vimeo.com/116582567)
 
 ## Week 13: April 17 – Prototype#2 A Working Model of Your Final Project: Pitch Day!
@@ -389,17 +389,15 @@ Today we move our FrankenAnimal projects into the world of 3D models and 3D prin
 Today we will focus on the concept and goal of your final project -- everyone presents a lightning-flash version of their project with two main goals: (1) to refine your idea and what is distinctive about it, and (2) to get feedback and "crowdsourced" or community response.  
 
 This is a day to make your "elevator pitch," and you will tell the story of your project, including answers to the following questions:  
-what is the project?  
-who else will be interested in this project? 
-what do you think it will do? 
-what do you think will distinguish your version from other versions of this project? 
-what do you expect will be challenging about completing this project? 
-what strategies do you have to meet those challenges?  
+	*what is the project?  
+	*who else will be interested in this project? 
+	*what do you think it will do? 
+	*what do you think will distinguish your version from other versions of this project? 
+	*what do you expect will be challenging about completing this project? 
+	*what strategies do you have to meet those challenges?  
 
-Also, you can ask the class for feedback and help -- we will use the entire day for information gathering, so plan ahead to use it wisely!  
-
-### Homework
-* Draft of slide deck images and description of Final Project (include Iterations, BOM Assessment, DFM notes) due next class.
+Also, feel free to ask the class for feedback and help.  
+We will use the entire day for information gathering, so plan ahead, practice your elevator pitch, anticipate what you'd like to talk about and use this class time wisely!  
 
 ## Week 14: April 24 – Workshop#9: Design for Manufacturing: Putting it all together
 
@@ -421,6 +419,8 @@ Today we will create a bill of materials, work with online ordering, practice re
 
 ## Week 15: May 1 – Final Project Workshop, building and code checking, final adjustments. 
 
+### Class Presentations: Iterations and trials, What has changed in your project in the last three weeks?
+
 ## Week 16: Finals Day:  May 8, 2:00-4:00PM, DEMO DAY in our usual classroom 
-N.B.: Your Final Project Must Be Uploaded and Viewable Online (Medium.com, Instructables, GitHub, our class Google Group, etc.) BEFORE Our Scheduled Final Exam Time. 
+N.B.: Your Final Project Must Be Uploaded and Viewable Online (Medium.com, Instructables, GitHub, our class Google Group, etc.) BEFORE Our Scheduled Final Exam Time. Attendance at the Exam Time is mandatory with the same importance as every other University Scheduled Final Exam Time.  See Student Handbook for details. 
 
