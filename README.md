@@ -284,15 +284,17 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 ### Homework
 * Finish and post your Prototype#1 documentation.  Bring in a fully functioning version if you have not already. 
 
-## Week 8: March 6 – Workshop#6: Photosensitive Devices and Atari Punk Enlightenment 
+## Week 8: March 6 – Workshop#6: Breadboarding a CMOS Synth with an CD4093 Quad NAND Gate 
 
-Today we learn to use the serial monitor in Arduino to measure and adjust the responsiveness of analog inputs.  We will focus on reading and making use of data from photocells.  We will also use our breadboards to build a sound generator from an IC 556 Timer.  This is a classic DIY electronics project from which many circuit heads and synth builders have made creative variants.
+Today we will use our breadboards to build a sound generator from an IC, a CD4093 Quad NAND Gate, with another IC for the amplifier, the LM386 Op-Amp.  This is a classic DIY electronics project from which many creative vairants have been made by circuit heads and synth builders.  The idea is to start with a simple version of a noise-maker and then experiement with different capacitor and resistor values, trying out your own configurations to create your own instrument!  In addition to momentary buttons (switches) and turn knobs (potentiometers) that we have worked with before, we'll also have two physical sensors that will allow for non-conventional control over your synth creations: photocells and pressure sensors.
 
 ### Notes, Key Terms, Examples
+* [LM386](http://en.wikipedia.org/wiki/LM386)
+* [NAND Gate](http://en.wikipedia.org/wiki/NAND_gate)
+* [CD4093](http://www.ti.com/lit/ds/symlink/cd4093bc.pdf)
 * [Atari Punk Console](http://en.wikipedia.org/wiki/Atari_Punk_Console)
 * [integrated circuit](http://en.wikipedia.org/wiki/Integrated_circuit)
 * [logic gate](http://en.wikipedia.org/wiki/Logic_gate)
-* [inverter](http://en.wikipedia.org/wiki/Inverter_(logic_gate))
 * photocell, photosensor, photoresistor 
 * command line prompt
 * serial data 
@@ -303,15 +305,16 @@ Today we learn to use the serial monitor in Arduino to measure and adjust the re
 * [How Can I Use the Photocell in Projects?](https://learn.adafruit.com/photocells)
 
 ### Homework
-* Create your own synth from the 556 IC and/or your Arduino.  Post the code, comments, and photos of your project.  
+* Create your own synth from the CD4093 IC and/or your Arduino.  Document your project with code, comments, and photos.  
 
-## Week 9: March 13 – Workshop#7:  Electronic Musical Instruments, Part II -- Capacitive Touch 
+## Week 9: March 13 – Workshop#7:  Electronic Musical Instruments, Part II -- Soldering the permanent build! 
 
-Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106.  We will play with the IC to see what it's capable of in terms of sound gerneation, and then build a prototype instrument or sound generator using easy-to-manipulate substrates like thin acrylic, shrink plastic, foam board, card board, or whatever you'd like to bring.  We will also incorporate our understanding and use of Arduinos in order try different ways of coding responsiveness using the GPIO pins. To begin our Arduino investigations, we will also explore a sketch for a simple synth using capacitive touch as a trigger. 
+Today we return to the LM386 and CD4093 ICs that we worked with last week, only this time we will solder the circuits we design into permenant forms.   
 
 ### Notes, Key Terms, Examples
-
-* [40106 Inverting Schmitt Trigger](http://en.wikipedia.org/wiki/Schmitt_trigger)
+* lead-free and lead solder
+* flux
+* protoboard / perfboard
 * capacitor
 * resistor
 * transistor
@@ -324,55 +327,53 @@ Today we will work with another IC chip, a hex inverting Schmitt trigger CD40106
 
 # Spring Break - No Classes March 20!
 
-## Week 10: March 27 – Workshop#8: Franken Animals! 
+## Week 10: March 27 – Workshop#8: FrankenAnimals! 
 
 Today we enter the fuzzy, plushy, wonderful world of making our own interactive stuffed animals.  Bring at least two stuffed critters that you would like to combine into your own Arduino-enhanced Frankenanimal creation.  It would be great if we could share some of the parts and pieces among projects -- be prepared to get inventive!
 
 ### Notes, Key Terms, Examples
 * e-textiles
 * wearables
+* materials (of design)
+* methods (of design)
+* connectors
+* personality / character / feel
 
 ### References
-
+[Materials & Design](http://www.journals.elsevier.com/materials-and-design/)
+[Ponoko's top ten materials list](http://blog.ponoko.com/2011/01/21/ten-super-cool-materials-for-creative-design/)
+[Inventables materials](https://www.inventables.com/categories/materials)
+[Tap Plastics, Acrylics](http://www.tapplastics.com/product_info/plastics_information/acrylic)
+[Wiki list of fabric names](http://en.wikipedia.org/wiki/List_of_fabric_names)
+[How To choose material for DIY plush toy](http://www.wikihow.com/Choose-Fabric-for-Soft-Toy-Making)
 
 ### Homework
+Finish FrankenAnimal creature and post your project's documentation (plans, iterations, build experience, materials, and outcomes with photos and detailed narrative) to the classlist. 
 
+## Week 11: April 3 – Workshop#9: FrankenAnimals Part II: Digital Creatures
 
-## Week 11: April 3 – Workshop#9: It's Sew Easy
+Today we move our FrankenAnimal projects into the world of 3D models and 3D printing.  We will start with examples of simple shapes and forms in Sketchup, and end by altering STL files and creating new STL files of our own. 
 
-Today we incorporate the internet and data streams into our projects.  We will start with an example in Processing, visualizing a data set and data stream.  Then we will conclude with a workshop to create a wearble electronics item that responds to internet data.  
-
-	Class Presentations - Part One
+	Class Presentations - FrankenAnimals as a model of rapid prototyping
 
 ### Notes, Key Terms, Examples
-* Networks
-* Networked Objects
-* Connected
-* Cloud
-* AWS
-* WiFi
-* BluTooth
-* Radio
-* IoT
-* Big Data
-* Data Visualization
-* J
+* workflow
+* plane
+* point
+* edge
+* healing (surfaces)
+* STL
+* G-Code
+* Mesh
+* x- y- and z-axes
 
 ### References
-* [Lilypad]
-* [Flora]
-* [Kickstarter]
-* [Fitbit]
-* [Pebble]
-* [Indiegogo]
-* [Big Data](http://en.wikipedia.org/wiki/Big_data)
-* [Mike Bostock](http://bost.ocks.org/mike/)
-* [NYTimes 2013, Data Visualization](http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/#dataviz)
+* [Sketchup]
+* [Cura]
+* [Printrbot]
 
-### Homework
-* Work on your Prototype#2;  bring to class the title, general idea of its function, a BOM, and a list of potential problems you are preparing for.
 
-## Week 12: April 10 — Free Buildy Day, Open Workshop
+## Week 12: April 10 — 3D Printing Demonstration + Free Buildy Day, Open Workshop for Final Projects
 
 	Class Presentations - Part Two 
 
@@ -383,18 +384,37 @@ Today we incorporate the internet and data streams into our projects.  We will s
 * Proposal for Final Project Due (Sketch, model, BOM and description)
 * watch [Fibonacci Zoetrope Sculptures](https://vimeo.com/116582567)
 
-## Week 13: April 17 – Prototype#2 Due: Demo Day! 
+## Week 13: April 17 – Prototype#2 A Working Model of Your Final Project: Pitch Day!
 
-### Group Reviews & Feedback on Prototypes
+Today we will focus on the concept and goal of your final project -- everyone presents a lightning-flash version of their project with two main goals: (1) to refine your idea and what is distinctive about it, and (2) to get feedback and "crowdsourced" or community response.  
+
+This is a day to make your "elevator pitch," and you will tell the story of your project, including answers to the following questions:  
+what is the project?  
+who else will be interested in this project? 
+what do you think it will do? 
+what do you think will distinguish your version from other versions of this project? 
+what do you expect will be challenging about completing this project? 
+what strategies do you have to meet those challenges?  
+
+Also, you can ask the class for feedback and help -- we will use the entire day for information gathering, so plan ahead to use it wisely!  
 
 ### Homework
 * Draft of slide deck images and description of Final Project (include Iterations, BOM Assessment, DFM notes) due next class.
 
 ## Week 14: April 24 – Workshop#9: Design for Manufacturing: Putting it all together
 
+Today we will create a bill of materials, work with online ordering, practice reaching out manufacturers, look at an Eagle-CAD electronic circuit design and submit it to an online PCB manufacturer -- all of this will give you an experience of how to move your project from your workshop into the world of manufacturing.  We will also spend time finishing 3D prints, fine-tuning the electrical designs and code of your own final projects, and there will be time for questions.  We will be working together in groups for part of the class, and there will be class time for working on your Final Project. 
+
 ### Notes, Key Terms, Examples
 * Digital Fabrication
 * Access to Manufacturing
+
+###References
+*[Eagle](http://www.cadsoftusa.com/download-eagle/?CMP=KNC-GUS-CUS-PFB)
+*[Alibaba](http://www.alibaba.com)
+*[Do's and Don't of Taobao - WSJ](http://blogs.wsj.com/digits/2014/04/27/the-dos-and-donts-of-shopping-on-alibabas-taobao/)
+*[TaoBao](http://www.taobao.com/market/global/index_new.php)
+*[Google Translate Is Your Friend!](https://translate.google.com)
 
 ### Homework
 * Work on Final Project.
