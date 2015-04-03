@@ -408,11 +408,11 @@ Today we will create a bill of materials, work with online ordering, practice re
 * Access to Manufacturing
 
 ###References
-*[Eagle](http://www.cadsoftusa.com/download-eagle/?CMP=KNC-GUS-CUS-PFB)
-*[Alibaba](http://www.alibaba.com)
-*[Do's and Don't of Taobao - WSJ](http://blogs.wsj.com/digits/2014/04/27/the-dos-and-donts-of-shopping-on-alibabas-taobao/)
-*[TaoBao](http://www.taobao.com/market/global/index_new.php)
-*[Google Translate Is Your Friend!](https://translate.google.com)
+[Eagle](http://www.cadsoftusa.com/download-eagle/?CMP=KNC-GUS-CUS-PFB)
+[Alibaba](http://www.alibaba.com)
+[Do's and Don't of Taobao - WSJ](http://blogs.wsj.com/digits/2014/04/27/the-dos-and-donts-of-shopping-on-alibabas-taobao/)
+[TaoBao](http://www.taobao.com/market/global/index_new.php)
+[Google Translate Is Your Friend!](https://translate.google.com)
 
 ### Homework
 * Work on Final Project.
