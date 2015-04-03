@@ -388,7 +388,7 @@ Today we move our FrankenAnimal projects into the world of 3D models and 3D prin
 
 Today we will focus on the concept and goal of your final project -- everyone presents a lightning-flash version of their project with two main goals: (1) to refine your idea and what is distinctive about it, and (2) to get feedback and "crowdsourced" or community response.  
 
-###This is a day to make your "elevator pitch," and you will tell the story of your project, including answers to the following questions:  
+### This is a day to make your "elevator pitch," and you will tell the story of your project, including answers to the following questions:  
 	* what is the project?  
 	* who else will be interested in this project? 
 	* what do you think it will do? 
@@ -396,7 +396,7 @@ Today we will focus on the concept and goal of your final project -- everyone pr
 	* what do you expect will be challenging about completing this project? 
 	* what strategies do you have to meet those challenges?  
 
-###Also, feel free to ask the class for feedback and help.  
+### Also, feel free to ask the class for feedback and help.  
 We will use the entire day for information gathering, so plan ahead, practice your elevator pitch, anticipate what you'd like to talk about and use this class time wisely!  
 
 ## Week 14: April 24 – Workshop#9: Design for Manufacturing: Putting it all together
@@ -408,11 +408,11 @@ Today we will create a bill of materials, work with online ordering, practice re
 * Access to Manufacturing
 
 ###References
-[Eagle](http://www.cadsoftusa.com/download-eagle/?CMP=KNC-GUS-CUS-PFB)
-[Alibaba](http://www.alibaba.com)
-[Do's and Don't of Taobao - WSJ](http://blogs.wsj.com/digits/2014/04/27/the-dos-and-donts-of-shopping-on-alibabas-taobao/)
-[TaoBao](http://www.taobao.com/market/global/index_new.php)
-[Google Translate Is Your Friend!](https://translate.google.com)
+* [Eagle](http://www.cadsoftusa.com/download-eagle/?CMP=KNC-GUS-CUS-PFB)
+* [Alibaba](http://www.alibaba.com)
+* [Do's and Don't of Taobao - WSJ](http://blogs.wsj.com/digits/2014/04/27/the-dos-and-donts-of-shopping-on-alibabas-taobao/)
+* [TaoBao](http://www.taobao.com/market/global/index_new.php)
+* [Google Translate Is Your Friend!](https://translate.google.com)
 
 ### Homework
 * Work on Final Project.
