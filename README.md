@@ -322,7 +322,7 @@ Today we return to the LM386 and CD4093 ICs that we worked with last week, only 
 * capacitive touch 
 
 ### Homework
-* Begin work on Prototype#2, Due in class on April 13.
+* Begin work on Prototype#2 [Working Model of Final Project], Elevator Pitch due in class on April 13.
 * Collect two or more stuffed animals that you can take apart and repurpose in our next Workshop after Spring Break. 
 
 # Spring Break - No Classes March 20!
@@ -368,19 +368,20 @@ Today we move our FrankenAnimal projects into the world of 3D models and 3D prin
 * x- y- and z-axes
 
 ### References
-* [Sketchup]
-* [Cura]
-* [Printrbot]
+* [Sketchup](http://www.sketchup.com)
+* [Sketchup STL export extension](https://extensions.sketchup.com/en/content/sketchup-stl)
+* [Cura](https://ultimaker.com/en/products/software)
+* [Printrbot](http://printrbot.com)
 
-### Homework
-* Submit your STL and G-Code files to the classlist.
+### Homework this week: Continue playing with Sketchup and work on your Prototype#2 and Final Project
 
-## Week 12: April 10 — 3D Printing + Free Buildy Day, Open Workshop for Final Projects
+## Week 12: April 10 — Workshop#10: 3D Printing & Open Workshop for Final Projects
 
 ### 3D Printing Lab
 * Work in four groups to design and complete a unique 3D printed figure.
 
 ### Homework
+* Submit your STL and G-Code files of your 3D project to the classlist -- we will have Greg print them during the week.
 * For next class: email to the classlist a Google Slides proposal for your Final Project (mock-up images or photos, BOM, detailed description) 
 * watch [Fibonacci Zoetrope Sculptures](https://vimeo.com/116582567)
 
@@ -399,7 +400,7 @@ Today we will focus on the concept and goal of your final project -- everyone pr
 ### Also, feel free to ask the class for feedback and help.  
 We will use the entire day for information gathering, so plan ahead, practice your elevator pitch, anticipate what you'd like to talk about and use this class time wisely!  
 
-## Week 14: April 24 – Workshop#9: Design for Manufacturing: Putting it all together
+## Week 14: April 24 – Workshop#11: Design for Manufacturing: Putting it all together
 
 Today we will create a bill of materials, work with online ordering, practice reaching out manufacturers, look at an Eagle-CAD electronic circuit design and submit it to an online PCB manufacturer -- all of this will give you an experience of how to move your project from your workshop into the world of manufacturing.  We will also spend time finishing 3D prints, fine-tuning the electrical designs and code of your own final projects, and there will be time for questions.  We will be working together in groups for part of the class, and there will be class time for working on your Final Project. 
 
