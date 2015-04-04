@@ -286,7 +286,7 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 
 ## Week 8: March 6 – Workshop#6: Breadboarding a CMOS Synth with an CD4093 Quad NAND Gate 
 
-Today we will use our breadboards to build a sound generator from an IC, a CD4093 Quad NAND Gate, with another IC for the amplifier, the LM386 Op-Amp.  This is a classic DIY electronics project from which many creative vairants have been made by circuit heads and synth builders.  The idea is to start with a simple version of a noise-maker and then experiement with different capacitor and resistor values, trying out your own configurations to create your own instrument!  In addition to momentary buttons (switches) and turn knobs (potentiometers) that we have worked with before, we'll also have two physical sensors that will allow for non-conventional control over your synth creations: photocells and pressure sensors.
+Today we will use our breadboards to build a sound generator from an IC, a CD4093 Quad NAND Gate, with another IC for the amplifier, the LM386.  This is a classic DIY electronics project from which many creative variants have been made by circuit heads and synth builders.  The idea is to start with a simple version of a noise-maker and then experiement with different capacitor and resistor values, trying out your own configurations to create your own instrument!  In addition to momentary buttons (switches) and turn knobs (potentiometers) that we have worked with before, we'll also have two physical sensors that will allow for non-conventional control over your synth creations: photocells and pressure sensors.
 
 ### Notes, Key Terms, Examples
 * [LM386](http://en.wikipedia.org/wiki/LM386)
