@@ -425,3 +425,18 @@ Today we will create a bill of materials, work with online ordering, practice re
 ## Week 16: Finals Day:  May 8, 2:00-4:00PM, DEMO DAY in our usual classroom 
 N.B.: Your Final Project Must Be Uploaded and Viewable Online (Medium.com, Instructables, GitHub, our class Google Group, etc.) BEFORE Our Scheduled Final Exam Time. Attendance at the Exam Time is mandatory with the same importance as every other University Scheduled Final Exam Time.  See Student Handbook for details. 
 
+Final Projects:
+![mabelpinesweater_amanda](https://cloud.githubusercontent.com/assets/2708066/7619405/5a4b1034-f96d-11e4-8358-2497806560e7.jpg)
+![watchgps_cole](https://cloud.githubusercontent.com/assets/2708066/7619414/5d52072e-f96d-11e4-811b-3ada410e0b7c.jpg)
+![arduinoelvisbelt_rosemary](https://cloud.githubusercontent.com/assets/2708066/7619416/60517ed2-f96d-11e4-80d5-9ffc247b290e.jpg)
+![lightboots_suhaily](https://cloud.githubusercontent.com/assets/2708066/7619417/62657110-f96d-11e4-9aae-11c4bae57da7.jpg)
+![graduationcap_josie](https://cloud.githubusercontent.com/assets/2708066/7619418/651e2974-f96d-11e4-9352-21473ca1f139.jpg)
+![ledcrown_jewell](https://cloud.githubusercontent.com/assets/2708066/7619420/676c4d5a-f96d-11e4-8393-b52de2d00a9a.jpg)
+![stopgobikelights_jeremy](https://cloud.githubusercontent.com/assets/2708066/7619429/6d0450be-f96d-11e4-81a5-21fa823ddd2c.jpg)
+![intruderdetector_andrew](https://cloud.githubusercontent.com/assets/2708066/7619431/6fb58cf6-f96d-11e4-82b5-ad3fb3534905.jpg)
+![jasperrpijoketeller_frankie](https://cloud.githubusercontent.com/assets/2708066/7619433/71bbaf3a-f96d-11e4-8a29-5c4f0e1a0206.jpg)
+![keytar_keely_taran](https://cloud.githubusercontent.com/assets/2708066/7619437/740273c8-f96d-11e4-8c4a-7045fd01934b.jpg)
+![arduinobeatbox_sean](https://cloud.githubusercontent.com/assets/2708066/7619438/76a84b34-f96d-11e4-91c0-1f9a999362a7.jpg)
+![rpi_cellphone_alan_stephen](https://cloud.githubusercontent.com/assets/2708066/7619443/79789bb6-f96d-11e4-9e09-1bdbfd0459e1.jpg)
+![secretdoorknockdetector_tyler](https://cloud.githubusercontent.com/assets/2708066/7619449/86d2e082-f96d-11e4-96bf-6abdcfbbb781.jpg)
+![explorewsu_yuriy_nicolaos](https://cloud.githubusercontent.com/assets/2708066/7619467/bd06b41c-f96d-11e4-9756-05dff5908c7f.png)
