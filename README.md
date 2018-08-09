@@ -261,7 +261,6 @@ Today's workshop will focus on creating an autonomous device. Let's see if we ca
 * Stepper motor
 
 ### References
-* 
 * [Autonomous Arduino Car](http://www.instructables.com/id/Autonomous-Arduino-Car/)
 * [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)
 
